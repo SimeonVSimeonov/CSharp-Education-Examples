@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\bin\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.deps.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\bin\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\bin\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\bin\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\bin\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.pdb
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\obj\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\obj\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\obj\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\obj\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\obj\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 3. Miles to Kilometers\obj\Debug\netcoreapp2.0\Problem 3. Miles to Kilometers.pdb

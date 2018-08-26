@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\bin\Debug\Vowels Sum.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\bin\Debug\Vowels Sum.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\bin\Debug\Vowels Sum.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\obj\Debug\Vowels Sum.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\obj\Debug\Vowels Sum.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\obj\Debug\Vowels Sum.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Vowels Sum\obj\Debug\Vowels Sum.pdb

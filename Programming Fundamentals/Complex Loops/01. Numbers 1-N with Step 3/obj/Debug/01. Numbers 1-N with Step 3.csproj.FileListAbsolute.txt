@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.exe.config
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.exe
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\bin\Debug\_01.Numbers_1_N_with_Step_3.pdb
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\obj\Debug\01. Numbers 1-N with Step 3.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\obj\Debug\01. Numbers 1-N with Step 3.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\obj\Debug\_01.Numbers_1_N_with_Step_3.exe
+c:\users\simeonoff\source\repos\Solution3\01. Numbers 1-N with Step 3\obj\Debug\_01.Numbers_1_N_with_Step_3.pdb

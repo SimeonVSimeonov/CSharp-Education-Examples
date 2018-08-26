@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\bin\Debug\netcoreapp2.0\11. Convert Speed Units.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\bin\Debug\netcoreapp2.0\11. Convert Speed Units.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\bin\Debug\netcoreapp2.0\11. Convert Speed Units.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\bin\Debug\netcoreapp2.0\11. Convert Speed Units.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\bin\Debug\netcoreapp2.0\11. Convert Speed Units.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\obj\Debug\netcoreapp2.0\11. Convert Speed Units.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\obj\Debug\netcoreapp2.0\11. Convert Speed Units.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\obj\Debug\netcoreapp2.0\11. Convert Speed Units.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\obj\Debug\netcoreapp2.0\11. Convert Speed Units.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\obj\Debug\netcoreapp2.0\11. Convert Speed Units.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\11. Convert Speed Units\obj\Debug\netcoreapp2.0\11. Convert Speed Units.pdb

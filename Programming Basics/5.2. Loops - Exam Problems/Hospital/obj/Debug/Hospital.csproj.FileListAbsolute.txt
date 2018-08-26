@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\bin\Debug\Hospital.exe.config
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\bin\Debug\Hospital.exe
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\bin\Debug\Hospital.pdb
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\obj\Debug\Hospital.exe
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Hospital\obj\Debug\Hospital.pdb

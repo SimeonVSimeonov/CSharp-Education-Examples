@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\bin\Debug\Fruit or Vegetable.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit or Vegetable\obj\Debug\Fruit or Vegetable.pdb

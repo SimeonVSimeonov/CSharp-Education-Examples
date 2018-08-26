@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Solution3\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.exe.config
+c:\users\simeonoff\source\repos\Solution3\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.exe
+c:\users\simeonoff\source\repos\Solution3\02. Numbers N-1\bin\Debug\_02.Numbers_N_1.pdb
+c:\users\simeonoff\source\repos\Solution3\02. Numbers N-1\obj\Debug\02. Numbers N-1.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Solution3\02. Numbers N-1\obj\Debug\_02.Numbers_N_1.exe
+c:\users\simeonoff\source\repos\Solution3\02. Numbers N-1\obj\Debug\_02.Numbers_N_1.pdb

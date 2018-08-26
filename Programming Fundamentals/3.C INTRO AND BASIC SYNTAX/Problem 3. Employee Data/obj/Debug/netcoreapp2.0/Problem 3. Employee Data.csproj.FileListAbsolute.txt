@@ -1,0 +1,10 @@
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\bin\Debug\netcoreapp2.0\Problem 3. Employee Data.deps.json
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\bin\Debug\netcoreapp2.0\Problem 3. Employee Data.runtimeconfig.json
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\bin\Debug\netcoreapp2.0\Problem 3. Employee Data.runtimeconfig.dev.json
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\bin\Debug\netcoreapp2.0\Problem 3. Employee Data.dll
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\bin\Debug\netcoreapp2.0\Problem 3. Employee Data.pdb
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\obj\Debug\netcoreapp2.0\Problem 3. Employee Data.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\obj\Debug\netcoreapp2.0\Problem 3. Employee Data.AssemblyInfoInputs.cache
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\obj\Debug\netcoreapp2.0\Problem 3. Employee Data.AssemblyInfo.cs
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\obj\Debug\netcoreapp2.0\Problem 3. Employee Data.dll
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 3. Employee Data\obj\Debug\netcoreapp2.0\Problem 3. Employee Data.pdb

@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\bin\Debug\Odd Even Position.exe.config
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\bin\Debug\Odd Even Position.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\bin\Debug\Odd Even Position.pdb
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\obj\Debug\Odd Even Position.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\obj\Debug\Odd Even Position.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\obj\Debug\Odd Even Position.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Position\obj\Debug\Odd Even Position.pdb

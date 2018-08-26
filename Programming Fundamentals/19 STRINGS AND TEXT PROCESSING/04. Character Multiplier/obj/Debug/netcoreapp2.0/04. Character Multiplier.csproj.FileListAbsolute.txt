@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\bin\Debug\netcoreapp2.0\04. Character Multiplier.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\04. Character Multiplier\obj\Debug\netcoreapp2.0\04. Character Multiplier.pdb

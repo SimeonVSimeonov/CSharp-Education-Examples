@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\bin\Debug\netcoreapp2.0\16. Instruction Set.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\16. Instruction Set\obj\Debug\netcoreapp2.0\16. Instruction Set.pdb

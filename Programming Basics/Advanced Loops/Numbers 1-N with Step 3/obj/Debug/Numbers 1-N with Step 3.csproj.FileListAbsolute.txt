@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\bin\Debug\Numbers 1-N with Step 3.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\bin\Debug\Numbers 1-N with Step 3.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\bin\Debug\Numbers 1-N with Step 3.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers 1-N with Step 3\obj\Debug\Numbers 1-N with Step 3.pdb

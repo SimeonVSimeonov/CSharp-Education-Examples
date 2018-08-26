@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\netcoreapp2.0\Problem 2. Rectangle Area.deps.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\netcoreapp2.0\Problem 2. Rectangle Area.runtimeconfig.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\netcoreapp2.0\Problem 2. Rectangle Area.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\netcoreapp2.0\Problem 2. Rectangle Area.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\bin\Debug\netcoreapp2.0\Problem 2. Rectangle Area.pdb
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\netcoreapp2.0\Problem 2. Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\netcoreapp2.0\Problem 2. Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\netcoreapp2.0\Problem 2. Rectangle Area.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\netcoreapp2.0\Problem 2. Rectangle Area.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 2. Rectangle Area\obj\Debug\netcoreapp2.0\Problem 2. Rectangle Area.pdb

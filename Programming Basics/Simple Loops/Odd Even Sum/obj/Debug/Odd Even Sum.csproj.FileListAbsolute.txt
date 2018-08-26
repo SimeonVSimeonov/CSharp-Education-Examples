@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\obj\Debug\Odd Even Sum.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\obj\Debug\Odd Even Sum.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

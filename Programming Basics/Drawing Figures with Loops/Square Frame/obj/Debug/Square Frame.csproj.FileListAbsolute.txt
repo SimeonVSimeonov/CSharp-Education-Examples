@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\bin\Debug\Square Frame.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square Frame\obj\Debug\Square Frame.pdb

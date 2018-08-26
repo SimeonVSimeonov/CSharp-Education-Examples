@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\bin\Debug\toyShop.exe.config
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\bin\Debug\toyShop.exe
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\bin\Debug\toyShop.pdb
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\obj\Debug\toyShop.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\obj\Debug\toyShop.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\obj\Debug\toyShop.exe
+c:\users\simeonoff\source\repos\25-11-2017\toyShop\obj\Debug\toyShop.pdb

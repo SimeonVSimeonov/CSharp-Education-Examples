@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\2.1book\Triangle Area\bin\Debug\Triangle Area.exe.config
+c:\users\simeonoff\source\repos\2.1book\Triangle Area\bin\Debug\Triangle Area.exe
+c:\users\simeonoff\source\repos\2.1book\Triangle Area\bin\Debug\Triangle Area.pdb
+c:\users\simeonoff\source\repos\2.1book\Triangle Area\obj\Debug\Triangle Area.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\2.1book\Triangle Area\obj\Debug\Triangle Area.exe
+c:\users\simeonoff\source\repos\2.1book\Triangle Area\obj\Debug\Triangle Area.pdb

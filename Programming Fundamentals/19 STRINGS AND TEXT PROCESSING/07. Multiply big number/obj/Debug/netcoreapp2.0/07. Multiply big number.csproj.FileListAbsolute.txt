@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\bin\Debug\netcoreapp2.0\07. Multiply big number.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\07. Multiply big number\obj\Debug\netcoreapp2.0\07. Multiply big number.pdb

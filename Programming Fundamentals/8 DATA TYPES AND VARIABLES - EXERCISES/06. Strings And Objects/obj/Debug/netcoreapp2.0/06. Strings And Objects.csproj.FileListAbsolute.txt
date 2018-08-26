@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\bin\Debug\netcoreapp2.0\06. Strings And Objects.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\06. Strings And Objects\obj\Debug\netcoreapp2.0\06. Strings And Objects.pdb

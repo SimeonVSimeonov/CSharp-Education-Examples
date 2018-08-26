@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\bin\Debug\Trade Comissions.exe.config
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\bin\Debug\Trade Comissions.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\bin\Debug\Trade Comissions.pdb
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\obj\Debug\Trade Comissions.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\obj\Debug\Trade Comissions.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\obj\Debug\Trade Comissions.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Trade Comissions\obj\Debug\Trade Comissions.pdb

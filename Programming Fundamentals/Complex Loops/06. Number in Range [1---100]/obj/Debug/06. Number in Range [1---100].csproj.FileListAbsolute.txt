@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Solution3\06. Number in Range [1---100]\bin\Debug\_06.Number_in_Range__1___100_.exe.config
+c:\users\simeonoff\source\repos\Solution3\06. Number in Range [1---100]\bin\Debug\_06.Number_in_Range__1___100_.exe
+c:\users\simeonoff\source\repos\Solution3\06. Number in Range [1---100]\bin\Debug\_06.Number_in_Range__1___100_.pdb
+c:\users\simeonoff\source\repos\Solution3\06. Number in Range [1---100]\obj\Debug\06. Number in Range [1---100].csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Solution3\06. Number in Range [1---100]\obj\Debug\_06.Number_in_Range__1___100_.exe
+c:\users\simeonoff\source\repos\Solution3\06. Number in Range [1---100]\obj\Debug\_06.Number_in_Range__1___100_.pdb

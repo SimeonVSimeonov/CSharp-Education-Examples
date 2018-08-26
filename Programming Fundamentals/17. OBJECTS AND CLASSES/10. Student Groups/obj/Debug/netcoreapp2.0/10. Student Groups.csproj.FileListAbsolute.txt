@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.deps.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.runtimeconfig.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\bin\Debug\netcoreapp2.0\10. Student Groups.pdb
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\10. Student Groups\obj\Debug\netcoreapp2.0\10. Student Groups.pdb

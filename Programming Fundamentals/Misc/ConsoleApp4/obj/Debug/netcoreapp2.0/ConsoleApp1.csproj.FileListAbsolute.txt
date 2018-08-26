@@ -1,0 +1,11 @@
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+c:\users\simeonoff\source\repos\13. LISTS\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb

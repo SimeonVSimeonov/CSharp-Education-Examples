@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\bin\Debug\Operations.exe.config
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\bin\Debug\Operations.exe
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\bin\Debug\Operations.pdb
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\obj\Debug\Operations.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\obj\Debug\Operations.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\obj\Debug\Operations.exe
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\Operations\obj\Debug\Operations.pdb

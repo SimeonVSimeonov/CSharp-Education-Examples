@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.deps.json
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.json
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.dll
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\bin\Debug\netcoreapp2.0\03. Camera View.pdb
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.dll
+C:\Users\simeonoff\source\repos\RegEx\03. Camera View\obj\Debug\netcoreapp2.0\03. Camera View.pdb

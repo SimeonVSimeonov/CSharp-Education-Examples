@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\7.1. Complex Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe.config
+c:\users\simeonoff\source\repos\7.1. Complex Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\05. Sequence 2k+1\bin\Debug\_05.Sequence_2k_1.pdb
+c:\users\simeonoff\source\repos\7.1. Complex Loops\05. Sequence 2k+1\obj\Debug\05. Sequence 2k+1.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\7.1. Complex Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\05. Sequence 2k+1\obj\Debug\_05.Sequence_2k_1.pdb

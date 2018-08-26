@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\bin\Debug\2d rectagle area.exe.config
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\bin\Debug\2d rectagle area.exe
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\bin\Debug\2d rectagle area.pdb
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\obj\Debug\2d rectagle area.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\obj\Debug\2d rectagle area.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\obj\Debug\2d rectagle area.exe
+c:\users\simeonoff\source\repos\2.1book\2d rectagle area\obj\Debug\2d rectagle area.pdb

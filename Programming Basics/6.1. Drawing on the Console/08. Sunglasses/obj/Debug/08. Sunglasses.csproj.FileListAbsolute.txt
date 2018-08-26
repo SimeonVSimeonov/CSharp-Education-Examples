@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\_08.Sunglasses.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\_08.Sunglasses.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\bin\Debug\_08.Sunglasses.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\08. Sunglasses.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\08. Sunglasses.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\_08.Sunglasses.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\08. Sunglasses\obj\Debug\_08.Sunglasses.pdb

@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb

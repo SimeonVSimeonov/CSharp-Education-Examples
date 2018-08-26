@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\3 Equal Numbers\bin\Debug\3 Equal Numbers.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\3 Equal Numbers\obj\Debug\3 Equal Numbers.pdb

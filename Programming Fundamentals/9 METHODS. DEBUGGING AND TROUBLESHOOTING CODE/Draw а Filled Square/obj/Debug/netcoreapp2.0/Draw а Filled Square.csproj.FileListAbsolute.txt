@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\obj\Debug\netcoreapp2.0\Draw а Filled Square.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\obj\Debug\netcoreapp2.0\Draw а Filled Square.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\obj\Debug\netcoreapp2.0\Draw а Filled Square.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\bin\Debug\netcoreapp2.0\Draw а Filled Square.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\bin\Debug\netcoreapp2.0\Draw а Filled Square.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\bin\Debug\netcoreapp2.0\Draw а Filled Square.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\bin\Debug\netcoreapp2.0\Draw а Filled Square.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\bin\Debug\netcoreapp2.0\Draw а Filled Square.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\obj\Debug\netcoreapp2.0\Draw а Filled Square.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Draw а Filled Square\obj\Debug\netcoreapp2.0\Draw а Filled Square.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\bin\Debug\Firm.exe.config
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\bin\Debug\Firm.exe
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\bin\Debug\Firm.pdb
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\obj\Debug\Firm.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\obj\Debug\Firm.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\obj\Debug\Firm.exe
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Firm\obj\Debug\Firm.pdb

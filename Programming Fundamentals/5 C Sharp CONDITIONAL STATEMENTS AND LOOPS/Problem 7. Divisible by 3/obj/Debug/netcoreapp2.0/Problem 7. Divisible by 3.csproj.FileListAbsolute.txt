@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\bin\Debug\netcoreapp2.0\Problem 7. Divisible by 3.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\bin\Debug\netcoreapp2.0\Problem 7. Divisible by 3.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\bin\Debug\netcoreapp2.0\Problem 7. Divisible by 3.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\bin\Debug\netcoreapp2.0\Problem 7. Divisible by 3.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\bin\Debug\netcoreapp2.0\Problem 7. Divisible by 3.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\obj\Debug\netcoreapp2.0\Problem 7. Divisible by 3.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\obj\Debug\netcoreapp2.0\Problem 7. Divisible by 3.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\obj\Debug\netcoreapp2.0\Problem 7. Divisible by 3.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\obj\Debug\netcoreapp2.0\Problem 7. Divisible by 3.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\obj\Debug\netcoreapp2.0\Problem 7. Divisible by 3.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 7. Divisible by 3\obj\Debug\netcoreapp2.0\Problem 7. Divisible by 3.pdb

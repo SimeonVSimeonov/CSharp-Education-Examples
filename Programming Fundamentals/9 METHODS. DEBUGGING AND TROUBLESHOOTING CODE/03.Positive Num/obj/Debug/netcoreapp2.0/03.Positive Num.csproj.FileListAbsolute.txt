@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\bin\Debug\netcoreapp2.0\03.Positive Num.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\bin\Debug\netcoreapp2.0\03.Positive Num.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\bin\Debug\netcoreapp2.0\03.Positive Num.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\bin\Debug\netcoreapp2.0\03.Positive Num.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\bin\Debug\netcoreapp2.0\03.Positive Num.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\obj\Debug\netcoreapp2.0\03.Positive Num.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\obj\Debug\netcoreapp2.0\03.Positive Num.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\obj\Debug\netcoreapp2.0\03.Positive Num.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\obj\Debug\netcoreapp2.0\03.Positive Num.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\obj\Debug\netcoreapp2.0\03.Positive Num.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\03.Positive Num\obj\Debug\netcoreapp2.0\03.Positive Num.pdb

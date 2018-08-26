@@ -1,0 +1,2 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\House\obj\Debug\House.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\House\obj\Debug\House.csproj.CoreCompileInputs.cache

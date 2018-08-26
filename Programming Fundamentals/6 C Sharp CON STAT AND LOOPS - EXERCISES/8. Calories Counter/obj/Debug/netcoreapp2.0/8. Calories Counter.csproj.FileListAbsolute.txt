@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\bin\Debug\netcoreapp2.0\8. Calories Counter.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\bin\Debug\netcoreapp2.0\8. Calories Counter.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\bin\Debug\netcoreapp2.0\8. Calories Counter.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\bin\Debug\netcoreapp2.0\8. Calories Counter.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\bin\Debug\netcoreapp2.0\8. Calories Counter.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\obj\Debug\netcoreapp2.0\8. Calories Counter.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\obj\Debug\netcoreapp2.0\8. Calories Counter.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\obj\Debug\netcoreapp2.0\8. Calories Counter.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\obj\Debug\netcoreapp2.0\8. Calories Counter.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\obj\Debug\netcoreapp2.0\8. Calories Counter.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\8. Calories Counter\obj\Debug\netcoreapp2.0\8. Calories Counter.pdb

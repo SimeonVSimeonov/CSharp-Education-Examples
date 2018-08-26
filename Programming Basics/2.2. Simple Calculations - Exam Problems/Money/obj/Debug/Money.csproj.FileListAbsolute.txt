@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\bin\Debug\Money.exe.config
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\bin\Debug\Money.exe
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\bin\Debug\Money.pdb
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\obj\Debug\Money.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\obj\Debug\Money.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\obj\Debug\Money.exe
+c:\users\simeonoff\source\repos\ConsoleApp3\Money\obj\Debug\Money.pdb

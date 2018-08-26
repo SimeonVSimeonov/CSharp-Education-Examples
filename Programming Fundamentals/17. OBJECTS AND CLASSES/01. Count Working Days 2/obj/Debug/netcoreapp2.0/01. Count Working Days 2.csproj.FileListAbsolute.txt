@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\bin\Debug\netcoreapp2.0\01. Count Working Days 2.deps.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\bin\Debug\netcoreapp2.0\01. Count Working Days 2.runtimeconfig.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\bin\Debug\netcoreapp2.0\01. Count Working Days 2.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\bin\Debug\netcoreapp2.0\01. Count Working Days 2.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\bin\Debug\netcoreapp2.0\01. Count Working Days 2.pdb
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\obj\Debug\netcoreapp2.0\01. Count Working Days 2.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\obj\Debug\netcoreapp2.0\01. Count Working Days 2.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\obj\Debug\netcoreapp2.0\01. Count Working Days 2.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\obj\Debug\netcoreapp2.0\01. Count Working Days 2.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\obj\Debug\netcoreapp2.0\01. Count Working Days 2.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\01. Count Working Days 2\obj\Debug\netcoreapp2.0\01. Count Working Days 2.pdb

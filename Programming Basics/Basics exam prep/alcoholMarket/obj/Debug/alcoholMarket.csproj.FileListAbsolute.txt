@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\bin\Debug\alcoholMarket.exe.config
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\bin\Debug\alcoholMarket.exe
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\bin\Debug\alcoholMarket.pdb
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\obj\Debug\alcoholMarket.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\obj\Debug\alcoholMarket.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\obj\Debug\alcoholMarket.exe
+c:\users\simeonoff\source\repos\25-11-2017\alcoholMarket\obj\Debug\alcoholMarket.pdb

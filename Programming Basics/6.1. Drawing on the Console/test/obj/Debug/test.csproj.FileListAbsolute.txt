@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\test\bin\Debug\test.exe.config
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\test\bin\Debug\test.exe
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\test\bin\Debug\test.pdb
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\test\obj\Debug\test.exe
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\test\obj\Debug\test.pdb

@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\bin\Debug\netcoreapp2.0\Folder Size.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\bin\Debug\netcoreapp2.0\Folder Size.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\bin\Debug\netcoreapp2.0\Folder Size.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\bin\Debug\netcoreapp2.0\Folder Size.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\bin\Debug\netcoreapp2.0\Folder Size.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\obj\Debug\netcoreapp2.0\Folder Size.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\obj\Debug\netcoreapp2.0\Folder Size.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\obj\Debug\netcoreapp2.0\Folder Size.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\obj\Debug\netcoreapp2.0\Folder Size.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Folder Size\obj\Debug\netcoreapp2.0\Folder Size.pdb

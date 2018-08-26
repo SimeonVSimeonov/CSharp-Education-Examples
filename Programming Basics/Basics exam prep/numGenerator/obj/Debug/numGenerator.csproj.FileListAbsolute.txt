@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\bin\Debug\numGenerator.exe.config
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\bin\Debug\numGenerator.exe
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\bin\Debug\numGenerator.pdb
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\obj\Debug\numGenerator.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\obj\Debug\numGenerator.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\obj\Debug\numGenerator.exe
+c:\users\simeonoff\source\repos\25-11-2017\numGenerator\obj\Debug\numGenerator.pdb

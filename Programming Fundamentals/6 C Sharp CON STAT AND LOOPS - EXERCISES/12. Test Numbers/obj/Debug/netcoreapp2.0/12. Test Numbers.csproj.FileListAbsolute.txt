@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\bin\Debug\netcoreapp2.0\12. Test Numbers.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\12. Test Numbers\obj\Debug\netcoreapp2.0\12. Test Numbers.pdb

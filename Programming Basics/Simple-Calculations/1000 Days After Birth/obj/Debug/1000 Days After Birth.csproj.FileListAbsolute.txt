@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\bin\Debug\1000 Days After Birth.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\obj\Debug\1000 Days After Birth.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\obj\Debug\1000 Days After Birth.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\obj\Debug\1000 Days After Birth.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\1000 Days After Birth\obj\Debug\1000 Days After Birth.pdb

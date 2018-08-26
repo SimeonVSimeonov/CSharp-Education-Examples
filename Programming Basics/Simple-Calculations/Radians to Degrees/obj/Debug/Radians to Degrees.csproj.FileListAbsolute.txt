@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

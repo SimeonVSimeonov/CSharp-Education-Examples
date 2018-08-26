@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\bin\Debug\netcoreapp2.0\01. Poke Mon.deps.json
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\bin\Debug\netcoreapp2.0\01. Poke Mon.runtimeconfig.json
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\bin\Debug\netcoreapp2.0\01. Poke Mon.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\bin\Debug\netcoreapp2.0\01. Poke Mon.dll
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\bin\Debug\netcoreapp2.0\01. Poke Mon.pdb
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\obj\Debug\netcoreapp2.0\01. Poke Mon.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\obj\Debug\netcoreapp2.0\01. Poke Mon.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\obj\Debug\netcoreapp2.0\01. Poke Mon.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\obj\Debug\netcoreapp2.0\01. Poke Mon.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\obj\Debug\netcoreapp2.0\01. Poke Mon.dll
+C:\Users\simeonoff\source\repos\Pokemons Exam\01. Poke Mon\obj\Debug\netcoreapp2.0\01. Poke Mon.pdb

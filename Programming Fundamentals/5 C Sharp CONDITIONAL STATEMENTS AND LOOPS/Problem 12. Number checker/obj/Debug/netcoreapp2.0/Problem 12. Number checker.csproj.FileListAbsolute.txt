@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\bin\Debug\netcoreapp2.0\Problem 12. Number checker.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\bin\Debug\netcoreapp2.0\Problem 12. Number checker.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\bin\Debug\netcoreapp2.0\Problem 12. Number checker.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\bin\Debug\netcoreapp2.0\Problem 12. Number checker.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\bin\Debug\netcoreapp2.0\Problem 12. Number checker.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\obj\Debug\netcoreapp2.0\Problem 12. Number checker.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\obj\Debug\netcoreapp2.0\Problem 12. Number checker.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\obj\Debug\netcoreapp2.0\Problem 12. Number checker.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\obj\Debug\netcoreapp2.0\Problem 12. Number checker.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 12. Number checker\obj\Debug\netcoreapp2.0\Problem 12. Number checker.pdb

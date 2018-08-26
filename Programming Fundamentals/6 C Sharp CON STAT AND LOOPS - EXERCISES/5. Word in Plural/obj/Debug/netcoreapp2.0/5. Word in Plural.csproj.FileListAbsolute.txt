@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\bin\Debug\netcoreapp2.0\5. Word in Plural.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\bin\Debug\netcoreapp2.0\5. Word in Plural.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\bin\Debug\netcoreapp2.0\5. Word in Plural.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\bin\Debug\netcoreapp2.0\5. Word in Plural.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\bin\Debug\netcoreapp2.0\5. Word in Plural.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\obj\Debug\netcoreapp2.0\5. Word in Plural.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\obj\Debug\netcoreapp2.0\5. Word in Plural.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\obj\Debug\netcoreapp2.0\5. Word in Plural.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\obj\Debug\netcoreapp2.0\5. Word in Plural.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\obj\Debug\netcoreapp2.0\5. Word in Plural.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\5. Word in Plural\obj\Debug\netcoreapp2.0\5. Word in Plural.pdb

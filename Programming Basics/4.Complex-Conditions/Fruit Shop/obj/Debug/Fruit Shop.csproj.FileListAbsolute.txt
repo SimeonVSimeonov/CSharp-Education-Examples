@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\bin\Debug\Fruit Shop.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\bin\Debug\Fruit Shop.pdb
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\obj\Debug\Fruit Shop.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\obj\Debug\Fruit Shop.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\obj\Debug\Fruit Shop.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Fruit Shop\obj\Debug\Fruit Shop.pdb

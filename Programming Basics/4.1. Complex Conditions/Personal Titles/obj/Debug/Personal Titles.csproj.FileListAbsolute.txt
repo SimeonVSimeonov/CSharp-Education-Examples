@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\bin\Debug\Personal Titles.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\bin\Debug\Personal Titles.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\bin\Debug\Personal Titles.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\obj\Debug\Personal Titles.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\obj\Debug\Personal Titles.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\obj\Debug\Personal Titles.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Personal Titles\obj\Debug\Personal Titles.pdb

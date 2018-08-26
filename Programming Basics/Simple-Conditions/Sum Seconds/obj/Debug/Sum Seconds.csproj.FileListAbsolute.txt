@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.exe
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\bin\Debug\Sum Seconds.pdb
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.exe
+C:\Users\simeonoff\source\repos\Simple-Conditions\Sum Seconds\obj\Debug\Sum Seconds.pdb

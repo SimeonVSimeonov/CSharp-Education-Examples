@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\bin\Debug\Cinema.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\bin\Debug\Cinema.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\bin\Debug\Cinema.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\obj\Debug\Cinema.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\obj\Debug\Cinema.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Cinema\obj\Debug\Cinema.pdb

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\bin\Debug\netcoreapp2.0\02.Print Numbers.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\bin\Debug\netcoreapp2.0\02.Print Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\bin\Debug\netcoreapp2.0\02.Print Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\bin\Debug\netcoreapp2.0\02.Print Numbers.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\bin\Debug\netcoreapp2.0\02.Print Numbers.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\obj\Debug\netcoreapp2.0\02.Print Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\obj\Debug\netcoreapp2.0\02.Print Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\obj\Debug\netcoreapp2.0\02.Print Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\obj\Debug\netcoreapp2.0\02.Print Numbers.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\obj\Debug\netcoreapp2.0\02.Print Numbers.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\02.Print Numbers\obj\Debug\netcoreapp2.0\02.Print Numbers.csprojResolveAssemblyReference.cache

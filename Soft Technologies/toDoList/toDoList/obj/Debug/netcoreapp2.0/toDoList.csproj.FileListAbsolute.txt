@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\toDoList\toDoList\bin\Debug\netcoreapp2.0\toDoList.deps.json
+C:\Users\simeonoff\source\repos\toDoList\toDoList\bin\Debug\netcoreapp2.0\toDoList.runtimeconfig.json
+C:\Users\simeonoff\source\repos\toDoList\toDoList\bin\Debug\netcoreapp2.0\toDoList.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\toDoList\toDoList\bin\Debug\netcoreapp2.0\toDoList.dll
+C:\Users\simeonoff\source\repos\toDoList\toDoList\bin\Debug\netcoreapp2.0\toDoList.pdb
+C:\Users\simeonoff\source\repos\toDoList\toDoList\obj\Debug\netcoreapp2.0\toDoList.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\toDoList\toDoList\obj\Debug\netcoreapp2.0\toDoList.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\toDoList\toDoList\obj\Debug\netcoreapp2.0\toDoList.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\toDoList\toDoList\obj\Debug\netcoreapp2.0\toDoList.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\toDoList\toDoList\obj\Debug\netcoreapp2.0\toDoList.dll
+C:\Users\simeonoff\source\repos\toDoList\toDoList\obj\Debug\netcoreapp2.0\toDoList.pdb

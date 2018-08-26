@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\bin\Debug\netcoreapp2.0\06. Sum big numbers.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\06. Sum big numbers\obj\Debug\netcoreapp2.0\06. Sum big numbers.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.exe.config
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\bin\Debug\_03.Ivanovi_s_Holiday.pdb
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\obj\Debug\03. Ivanovi's Holiday.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\obj\Debug\03. Ivanovi's Holiday.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\obj\Debug\_03.Ivanovi_s_Holiday.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday\obj\Debug\_03.Ivanovi_s_Holiday.pdb

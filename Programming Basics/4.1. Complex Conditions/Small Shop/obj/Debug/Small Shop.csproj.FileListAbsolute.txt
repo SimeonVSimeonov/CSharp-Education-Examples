@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\bin\Debug\Small Shop.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\bin\Debug\Small Shop.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\bin\Debug\Small Shop.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\obj\Debug\Small Shop.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\obj\Debug\Small Shop.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\obj\Debug\Small Shop.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Small Shop\obj\Debug\Small Shop.pdb

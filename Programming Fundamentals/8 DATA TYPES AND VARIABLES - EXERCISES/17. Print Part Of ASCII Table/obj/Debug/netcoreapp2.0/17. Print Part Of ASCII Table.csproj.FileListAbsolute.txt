@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\bin\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\17. Print Part Of ASCII Table\obj\Debug\netcoreapp2.0\17. Print Part Of ASCII Table.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\bin\Debug\Change Tiles.exe.config
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\bin\Debug\Change Tiles.exe
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\bin\Debug\Change Tiles.pdb
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\obj\Debug\Change Tiles.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\obj\Debug\Change Tiles.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\obj\Debug\Change Tiles.exe
+c:\users\simeonoff\source\repos\ConsoleApp3\Change Tiles\obj\Debug\Change Tiles.pdb

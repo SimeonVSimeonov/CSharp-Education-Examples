@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.exe.config
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.pdb
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.pdb

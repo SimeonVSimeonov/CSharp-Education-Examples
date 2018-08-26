@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

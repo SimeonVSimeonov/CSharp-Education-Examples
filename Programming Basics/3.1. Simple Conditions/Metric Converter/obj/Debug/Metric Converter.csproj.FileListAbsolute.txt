@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\bin\Debug\Metric Converter.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\bin\Debug\Metric Converter.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\bin\Debug\Metric Converter.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\obj\Debug\Metric Converter.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\obj\Debug\Metric Converter.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\obj\Debug\Metric Converter.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Metric Converter\obj\Debug\Metric Converter.pdb

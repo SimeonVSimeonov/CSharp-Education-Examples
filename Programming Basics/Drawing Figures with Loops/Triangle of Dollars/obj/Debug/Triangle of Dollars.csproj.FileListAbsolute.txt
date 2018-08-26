@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

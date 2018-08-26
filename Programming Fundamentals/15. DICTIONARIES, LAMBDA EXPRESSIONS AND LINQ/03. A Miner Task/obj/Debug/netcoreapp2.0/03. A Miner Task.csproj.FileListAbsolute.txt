@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.deps.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.dll
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\bin\Debug\netcoreapp2.0\03. A Miner Task.pdb
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.dll
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\03. A Miner Task\obj\Debug\netcoreapp2.0\03. A Miner Task.pdb

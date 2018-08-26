@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\bin\Debug\Number 0-100 to Text.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\bin\Debug\Number 0-100 to Text.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\bin\Debug\Number 0-100 to Text.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\obj\Debug\Number 0-100 to Text.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\obj\Debug\Number 0-100 to Text.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\obj\Debug\Number 0-100 to Text.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Number 0-100 to Text\obj\Debug\Number 0-100 to Text.pdb

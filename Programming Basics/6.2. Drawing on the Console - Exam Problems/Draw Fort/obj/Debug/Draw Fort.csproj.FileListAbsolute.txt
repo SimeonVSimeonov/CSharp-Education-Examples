@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\bin\Debug\Draw Fort.exe.config
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\bin\Debug\Draw Fort.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\bin\Debug\Draw Fort.pdb
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\obj\Debug\Draw Fort.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\obj\Debug\Draw Fort.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\obj\Debug\Draw Fort.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\Draw Fort\obj\Debug\Draw Fort.pdb

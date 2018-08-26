@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\simeonoff\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\simeonoff\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.Cache
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.pdb
+C:\Users\simeonoff\source\repos\calc\calc\obj\Debug\calc.FormCalculate.resources

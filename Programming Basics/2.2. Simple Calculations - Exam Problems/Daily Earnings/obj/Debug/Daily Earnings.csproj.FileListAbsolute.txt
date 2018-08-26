@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\bin\Debug\Daily Earnings.exe.config
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\bin\Debug\Daily Earnings.exe
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\bin\Debug\Daily Earnings.pdb
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\obj\Debug\Daily Earnings.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\obj\Debug\Daily Earnings.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\obj\Debug\Daily Earnings.exe
+C:\Users\simeonoff\source\repos\ConsoleApp3\Daily Earnings\obj\Debug\Daily Earnings.pdb

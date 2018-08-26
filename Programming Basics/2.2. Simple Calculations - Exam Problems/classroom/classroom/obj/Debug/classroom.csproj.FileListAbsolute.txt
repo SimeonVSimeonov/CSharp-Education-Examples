@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\classroom\classroom\bin\Debug\classroom.exe.config
+C:\Users\simeonoff\source\repos\classroom\classroom\bin\Debug\classroom.exe
+C:\Users\simeonoff\source\repos\classroom\classroom\bin\Debug\classroom.pdb
+C:\Users\simeonoff\source\repos\classroom\classroom\obj\Debug\classroom.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\classroom\classroom\obj\Debug\classroom.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\classroom\classroom\obj\Debug\classroom.exe
+C:\Users\simeonoff\source\repos\classroom\classroom\obj\Debug\classroom.pdb

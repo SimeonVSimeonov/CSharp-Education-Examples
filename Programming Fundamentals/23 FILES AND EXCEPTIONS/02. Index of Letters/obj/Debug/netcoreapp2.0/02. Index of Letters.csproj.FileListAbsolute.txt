@@ -1,0 +1,11 @@
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\bin\Debug\netcoreapp2.0\02. Index of Letters.deps.json
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\bin\Debug\netcoreapp2.0\02. Index of Letters.runtimeconfig.json
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\bin\Debug\netcoreapp2.0\02. Index of Letters.runtimeconfig.dev.json
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\bin\Debug\netcoreapp2.0\02. Index of Letters.dll
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\bin\Debug\netcoreapp2.0\02. Index of Letters.pdb
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\obj\Debug\netcoreapp2.0\02. Index of Letters.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\obj\Debug\netcoreapp2.0\02. Index of Letters.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\obj\Debug\netcoreapp2.0\02. Index of Letters.AssemblyInfoInputs.cache
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\obj\Debug\netcoreapp2.0\02. Index of Letters.AssemblyInfo.cs
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\obj\Debug\netcoreapp2.0\02. Index of Letters.dll
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\02. Index of Letters\obj\Debug\netcoreapp2.0\02. Index of Letters.pdb

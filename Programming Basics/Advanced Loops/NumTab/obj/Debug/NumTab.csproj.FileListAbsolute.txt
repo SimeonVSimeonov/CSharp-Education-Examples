@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\bin\Debug\NumTab.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\bin\Debug\NumTab.exe
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\bin\Debug\NumTab.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\obj\Debug\NumTab.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\obj\Debug\NumTab.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\obj\Debug\NumTab.exe
+c:\users\simeonoff\source\repos\Advanced Loops\NumTab\obj\Debug\NumTab.pdb

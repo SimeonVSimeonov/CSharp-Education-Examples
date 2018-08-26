@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\bin\Debug\netcoreapp2.0\split list of beers.deps.json
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\bin\Debug\netcoreapp2.0\split list of beers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\bin\Debug\netcoreapp2.0\split list of beers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\bin\Debug\netcoreapp2.0\split list of beers.dll
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\bin\Debug\netcoreapp2.0\split list of beers.pdb
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\obj\Debug\netcoreapp2.0\split list of beers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\obj\Debug\netcoreapp2.0\split list of beers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\obj\Debug\netcoreapp2.0\split list of beers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\obj\Debug\netcoreapp2.0\split list of beers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\obj\Debug\netcoreapp2.0\split list of beers.dll
+C:\Users\simeonoff\source\repos\String head 13\split list of beers\obj\Debug\netcoreapp2.0\split list of beers.pdb

@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\2.1book\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe.config
+c:\users\simeonoff\source\repos\2.1book\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.exe
+c:\users\simeonoff\source\repos\2.1book\Celsius to Fahrenheit\bin\Debug\Celsius to Fahrenheit.pdb
+c:\users\simeonoff\source\repos\2.1book\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\2.1book\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.exe
+c:\users\simeonoff\source\repos\2.1book\Celsius to Fahrenheit\obj\Debug\Celsius to Fahrenheit.pdb

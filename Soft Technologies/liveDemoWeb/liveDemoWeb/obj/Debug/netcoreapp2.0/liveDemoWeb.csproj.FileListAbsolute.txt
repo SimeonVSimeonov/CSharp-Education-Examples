@@ -1,0 +1,12 @@
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\bin\Debug\netcoreapp2.0\liveDemoWeb.deps.json
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\bin\Debug\netcoreapp2.0\liveDemoWeb.runtimeconfig.json
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\bin\Debug\netcoreapp2.0\liveDemoWeb.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\bin\Debug\netcoreapp2.0\liveDemoWeb.dll
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\bin\Debug\netcoreapp2.0\liveDemoWeb.pdb
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\liveDemoWeb.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\liveDemoWeb.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\liveDemoWeb.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\liveDemoWeb.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\liveDemoWeb.dll
+C:\Users\simeonoff\source\repos\liveDemoWeb\liveDemoWeb\obj\Debug\netcoreapp2.0\liveDemoWeb.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe.config
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\bin\Debug\Square-Area.exe
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\bin\Debug\Square-Area.pdb
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\obj\Debug\Square-Area.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\obj\Debug\Square-Area.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\obj\Debug\Square-Area.exe
+c:\users\simeonoff\source\repos\Simple-Calculations\Square-Area\obj\Debug\Square-Area.pdb

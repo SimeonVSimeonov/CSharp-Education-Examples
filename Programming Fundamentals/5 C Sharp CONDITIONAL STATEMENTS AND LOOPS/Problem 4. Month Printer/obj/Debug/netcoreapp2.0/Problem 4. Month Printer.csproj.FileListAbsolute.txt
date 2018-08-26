@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\bin\Debug\netcoreapp2.0\Problem 4. Month Printer.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 4. Month Printer\obj\Debug\netcoreapp2.0\Problem 4. Month Printer.pdb

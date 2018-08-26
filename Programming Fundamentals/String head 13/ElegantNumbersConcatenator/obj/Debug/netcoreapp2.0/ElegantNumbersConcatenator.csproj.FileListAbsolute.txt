@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\bin\Debug\netcoreapp2.0\ElegantNumbersConcatenator.deps.json
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\bin\Debug\netcoreapp2.0\ElegantNumbersConcatenator.runtimeconfig.json
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\bin\Debug\netcoreapp2.0\ElegantNumbersConcatenator.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\bin\Debug\netcoreapp2.0\ElegantNumbersConcatenator.dll
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\bin\Debug\netcoreapp2.0\ElegantNumbersConcatenator.pdb
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\obj\Debug\netcoreapp2.0\ElegantNumbersConcatenator.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\obj\Debug\netcoreapp2.0\ElegantNumbersConcatenator.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\obj\Debug\netcoreapp2.0\ElegantNumbersConcatenator.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\obj\Debug\netcoreapp2.0\ElegantNumbersConcatenator.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\obj\Debug\netcoreapp2.0\ElegantNumbersConcatenator.dll
+C:\Users\simeonoff\source\repos\String head 13\ElegantNumbersConcatenator\obj\Debug\netcoreapp2.0\ElegantNumbersConcatenator.pdb

@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\USD to BGN\bin\Debug\USD to BGN.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\USD to BGN\bin\Debug\USD to BGN.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\USD to BGN\bin\Debug\USD to BGN.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\USD to BGN\obj\Debug\USD to BGN.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\USD to BGN\obj\Debug\USD to BGN.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\USD to BGN\obj\Debug\USD to BGN.pdb

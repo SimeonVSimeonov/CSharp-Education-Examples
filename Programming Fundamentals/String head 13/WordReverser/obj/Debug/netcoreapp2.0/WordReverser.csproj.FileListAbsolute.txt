@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\obj\Debug\netcoreapp2.0\WordReverser.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\obj\Debug\netcoreapp2.0\WordReverser.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\obj\Debug\netcoreapp2.0\WordReverser.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\obj\Debug\netcoreapp2.0\WordReverser.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\bin\Debug\netcoreapp2.0\WordReverser.deps.json
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\bin\Debug\netcoreapp2.0\WordReverser.runtimeconfig.json
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\bin\Debug\netcoreapp2.0\WordReverser.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\bin\Debug\netcoreapp2.0\WordReverser.dll
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\bin\Debug\netcoreapp2.0\WordReverser.pdb
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\obj\Debug\netcoreapp2.0\WordReverser.dll
+C:\Users\simeonoff\source\repos\String head 13\WordReverser\obj\Debug\netcoreapp2.0\WordReverser.pdb

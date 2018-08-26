@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rhombus of Stars1\obj\Debug\Rhombus of Stars1.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rhombus of Stars1\bin\Debug\Rhombus of Stars1.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rhombus of Stars1\bin\Debug\Rhombus of Stars1.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rhombus of Stars1\bin\Debug\Rhombus of Stars1.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rhombus of Stars1\obj\Debug\Rhombus of Stars1.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rhombus of Stars1\obj\Debug\Rhombus of Stars1.pdb

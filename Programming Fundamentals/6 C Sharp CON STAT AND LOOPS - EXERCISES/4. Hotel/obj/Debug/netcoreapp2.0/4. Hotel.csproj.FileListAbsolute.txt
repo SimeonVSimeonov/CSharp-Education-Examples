@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\bin\Debug\netcoreapp2.0\4. Hotel.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\bin\Debug\netcoreapp2.0\4. Hotel.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\bin\Debug\netcoreapp2.0\4. Hotel.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\bin\Debug\netcoreapp2.0\4. Hotel.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\bin\Debug\netcoreapp2.0\4. Hotel.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\obj\Debug\netcoreapp2.0\4. Hotel.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\obj\Debug\netcoreapp2.0\4. Hotel.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\obj\Debug\netcoreapp2.0\4. Hotel.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\obj\Debug\netcoreapp2.0\4. Hotel.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\obj\Debug\netcoreapp2.0\4. Hotel.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\4. Hotel\obj\Debug\netcoreapp2.0\4. Hotel.pdb

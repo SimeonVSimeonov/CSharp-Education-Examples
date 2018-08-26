@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\bin\Debug\On Time for the Exam.exe.config
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\bin\Debug\On Time for the Exam.exe
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\bin\Debug\On Time for the Exam.pdb
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\obj\Debug\On Time for the Exam.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\obj\Debug\On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\obj\Debug\On Time for the Exam.exe
+C:\Users\simeonoff\source\repos\4.2. Complex Conditions - Exam Problems\On Time for the Exam\obj\Debug\On Time for the Exam.pdb

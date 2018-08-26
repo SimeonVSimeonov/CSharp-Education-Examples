@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.deps.json
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.runtimeconfig.json
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.dll
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\bin\Debug\netcoreapp2.0\01. Charity Marathon.pdb
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.dll
+C:\Users\simeonoff\source\repos\EXAM PREPARATION I Group2\01. Charity Marathon\obj\Debug\netcoreapp2.0\01. Charity Marathon.pdb

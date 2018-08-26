@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\bin\Debug\Max Number.exe.config
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\bin\Debug\Max Number.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\bin\Debug\Max Number.pdb
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\obj\Debug\Max Number.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\obj\Debug\Max Number.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\obj\Debug\Max Number.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Max Number\obj\Debug\Max Number.pdb

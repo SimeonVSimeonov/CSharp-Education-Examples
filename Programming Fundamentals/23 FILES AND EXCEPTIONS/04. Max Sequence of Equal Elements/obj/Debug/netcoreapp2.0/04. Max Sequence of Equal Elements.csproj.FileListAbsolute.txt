@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\04. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\04. Max Sequence of Equal Elements.pdb

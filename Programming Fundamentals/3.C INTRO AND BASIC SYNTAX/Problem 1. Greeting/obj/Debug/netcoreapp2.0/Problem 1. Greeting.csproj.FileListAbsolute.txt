@@ -1,0 +1,11 @@
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\bin\Debug\netcoreapp2.0\Problem 1. Greeting.deps.json
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\bin\Debug\netcoreapp2.0\Problem 1. Greeting.runtimeconfig.json
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\bin\Debug\netcoreapp2.0\Problem 1. Greeting.runtimeconfig.dev.json
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\bin\Debug\netcoreapp2.0\Problem 1. Greeting.dll
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\bin\Debug\netcoreapp2.0\Problem 1. Greeting.pdb
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\obj\Debug\netcoreapp2.0\Problem 1. Greeting.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\obj\Debug\netcoreapp2.0\Problem 1. Greeting.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\obj\Debug\netcoreapp2.0\Problem 1. Greeting.AssemblyInfoInputs.cache
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\obj\Debug\netcoreapp2.0\Problem 1. Greeting.AssemblyInfo.cs
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\obj\Debug\netcoreapp2.0\Problem 1. Greeting.dll
+c:\users\simeonoff\source\repos\3.C INTRO AND BASIC SYNTAX\Problem 1. Greeting\obj\Debug\netcoreapp2.0\Problem 1. Greeting.pdb

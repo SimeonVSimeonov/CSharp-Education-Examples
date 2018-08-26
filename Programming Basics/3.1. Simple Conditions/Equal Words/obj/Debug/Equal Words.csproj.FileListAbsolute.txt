@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\bin\Debug\Equal Words.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\bin\Debug\Equal Words.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\bin\Debug\Equal Words.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\obj\Debug\Equal Words.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\obj\Debug\Equal Words.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\obj\Debug\Equal Words.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Equal Words\obj\Debug\Equal Words.pdb

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\bin\Debug\netcoreapp2.0\AnimalsShelter.deps.json
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\bin\Debug\netcoreapp2.0\AnimalsShelter.runtimeconfig.json
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\bin\Debug\netcoreapp2.0\AnimalsShelter.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\bin\Debug\netcoreapp2.0\AnimalsShelter.dll
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\bin\Debug\netcoreapp2.0\AnimalsShelter.pdb
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\obj\Debug\netcoreapp2.0\AnimalsShelter.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\obj\Debug\netcoreapp2.0\AnimalsShelter.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\obj\Debug\netcoreapp2.0\AnimalsShelter.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\obj\Debug\netcoreapp2.0\AnimalsShelter.dll
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\obj\Debug\netcoreapp2.0\AnimalsShelter.pdb
+C:\Users\simeonoff\source\repos\Classes\AnimalsShelter\obj\Debug\netcoreapp2.0\AnimalsShelter.csprojResolveAssemblyReference.cache

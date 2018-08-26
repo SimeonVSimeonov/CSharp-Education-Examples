@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\bin\Debug\Point in the Figure.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\bin\Debug\Point in the Figure.pdb
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\obj\Debug\Point in the Figure.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\obj\Debug\Point in the Figure.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\obj\Debug\Point in the Figure.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point in the Figure\obj\Debug\Point in the Figure.pdb

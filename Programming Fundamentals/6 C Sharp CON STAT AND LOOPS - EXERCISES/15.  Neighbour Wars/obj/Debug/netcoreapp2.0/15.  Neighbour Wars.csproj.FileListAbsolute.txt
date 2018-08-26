@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\bin\Debug\netcoreapp2.0\15.  Neighbour Wars.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\bin\Debug\netcoreapp2.0\15.  Neighbour Wars.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\bin\Debug\netcoreapp2.0\15.  Neighbour Wars.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\bin\Debug\netcoreapp2.0\15.  Neighbour Wars.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\bin\Debug\netcoreapp2.0\15.  Neighbour Wars.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\obj\Debug\netcoreapp2.0\15.  Neighbour Wars.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\obj\Debug\netcoreapp2.0\15.  Neighbour Wars.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\obj\Debug\netcoreapp2.0\15.  Neighbour Wars.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\obj\Debug\netcoreapp2.0\15.  Neighbour Wars.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\obj\Debug\netcoreapp2.0\15.  Neighbour Wars.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\15.  Neighbour Wars\obj\Debug\netcoreapp2.0\15.  Neighbour Wars.pdb

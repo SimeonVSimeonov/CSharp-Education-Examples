@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\bin\Debug\netcoreapp2.0\05. Magic exchangeable words.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\05. Magic exchangeable words\obj\Debug\netcoreapp2.0\05. Magic exchangeable words.pdb

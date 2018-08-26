@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\bin\Debug\netcoreapp2.0\03. Practice Chars And Strings.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\03. Practice Chars And Strings\obj\Debug\netcoreapp2.0\03. Practice Chars And Strings.pdb

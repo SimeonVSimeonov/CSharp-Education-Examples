@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.deps.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\bin\Debug\netcoreapp2.0\02. Advertisement Message.pdb
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\02. Advertisement Message\obj\Debug\netcoreapp2.0\02. Advertisement Message.pdb

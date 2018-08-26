@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\bin\Debug\netcoreapp2.0\7. Cake Ingredients.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\bin\Debug\netcoreapp2.0\7. Cake Ingredients.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\bin\Debug\netcoreapp2.0\7. Cake Ingredients.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\bin\Debug\netcoreapp2.0\7. Cake Ingredients.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\bin\Debug\netcoreapp2.0\7. Cake Ingredients.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\obj\Debug\netcoreapp2.0\7. Cake Ingredients.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\obj\Debug\netcoreapp2.0\7. Cake Ingredients.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\obj\Debug\netcoreapp2.0\7. Cake Ingredients.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\obj\Debug\netcoreapp2.0\7. Cake Ingredients.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\obj\Debug\netcoreapp2.0\7. Cake Ingredients.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\7. Cake Ingredients\obj\Debug\netcoreapp2.0\7. Cake Ingredients.pdb

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\bin\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\bin\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\bin\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\bin\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\bin\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\obj\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\obj\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\obj\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\obj\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\obj\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 3. Back in 30 Minutes\obj\Debug\netcoreapp2.0\Problem 3. Back in 30 Minutes.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\bin\Debug\Sleepy Tom Cat.exe.config
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\bin\Debug\Sleepy Tom Cat.exe
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\bin\Debug\Sleepy Tom Cat.pdb
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.exe
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Sleepy Tom Cat\obj\Debug\Sleepy Tom Cat.pdb

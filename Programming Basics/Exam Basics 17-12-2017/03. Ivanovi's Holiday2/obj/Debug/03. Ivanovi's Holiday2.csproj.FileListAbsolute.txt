@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday2\obj\Debug\03. Ivanovi's Holiday2.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday2\bin\Debug\_03.Ivanovi_s_Holiday2.exe.config
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday2\bin\Debug\_03.Ivanovi_s_Holiday2.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday2\bin\Debug\_03.Ivanovi_s_Holiday2.pdb
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday2\obj\Debug\_03.Ivanovi_s_Holiday2.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\03. Ivanovi's Holiday2\obj\Debug\_03.Ivanovi_s_Holiday2.pdb

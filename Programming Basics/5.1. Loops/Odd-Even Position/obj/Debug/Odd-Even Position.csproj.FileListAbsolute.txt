@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\bin\Debug\Odd-Even Position.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\bin\Debug\Odd-Even Position.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\bin\Debug\Odd-Even Position.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\obj\Debug\Odd-Even Position.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\obj\Debug\Odd-Even Position.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\obj\Debug\Odd-Even Position.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Odd-Even Position\obj\Debug\Odd-Even Position.pdb

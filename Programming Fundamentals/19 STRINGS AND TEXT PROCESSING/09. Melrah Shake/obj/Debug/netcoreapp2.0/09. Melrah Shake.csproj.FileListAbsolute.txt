@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\bin\Debug\netcoreapp2.0\09. Melrah Shake.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\09. Melrah Shake\obj\Debug\netcoreapp2.0\09. Melrah Shake.pdb

@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\bin\Debug\Sum Numbers.pdb
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Sum Numbers\obj\Debug\Sum Numbers.pdb

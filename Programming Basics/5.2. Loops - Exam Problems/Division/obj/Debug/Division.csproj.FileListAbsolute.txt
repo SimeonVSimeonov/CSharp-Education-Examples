@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\bin\Debug\Division.exe.config
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\bin\Debug\Division.exe
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\bin\Debug\Division.pdb
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\obj\Debug\Division.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\obj\Debug\Division.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\obj\Debug\Division.exe
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Division\obj\Debug\Division.pdb

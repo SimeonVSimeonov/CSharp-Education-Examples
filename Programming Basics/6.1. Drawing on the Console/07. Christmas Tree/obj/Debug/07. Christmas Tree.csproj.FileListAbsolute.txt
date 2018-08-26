@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\bin\Debug\_07.Christmas_Tree.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\07. Christmas Tree.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\07. Christmas Tree.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\07. Christmas Tree\obj\Debug\_07.Christmas_Tree.pdb

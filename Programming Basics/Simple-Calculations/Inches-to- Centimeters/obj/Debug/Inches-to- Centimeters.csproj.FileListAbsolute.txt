@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Simple-Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.exe.config
+c:\users\simeonoff\source\repos\Simple-Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.exe
+c:\users\simeonoff\source\repos\Simple-Calculations\Inches-to- Centimeters\bin\Debug\Inches-to- Centimeters.pdb
+c:\users\simeonoff\source\repos\Simple-Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Simple-Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.exe
+c:\users\simeonoff\source\repos\Simple-Calculations\Inches-to- Centimeters\obj\Debug\Inches-to- Centimeters.pdb

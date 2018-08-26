@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\bin\Debug\Rectangle of 10 x 10 Stars.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\bin\Debug\Rectangle of 10 x 10 Stars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\bin\Debug\Rectangle of 10 x 10 Stars.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\obj\Debug\Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\obj\Debug\Rectangle of 10 x 10 Stars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\obj\Debug\Rectangle of 10 x 10 Stars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of 10 x 10 Stars\obj\Debug\Rectangle of 10 x 10 Stars.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\bin\Debug\Equal Pairs.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\bin\Debug\Equal Pairs.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\obj\Debug\Equal Pairs.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\obj\Debug\Equal Pairs.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\obj\Debug\Equal Pairs.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Equal Pairs\obj\Debug\Equal Pairs.pdb

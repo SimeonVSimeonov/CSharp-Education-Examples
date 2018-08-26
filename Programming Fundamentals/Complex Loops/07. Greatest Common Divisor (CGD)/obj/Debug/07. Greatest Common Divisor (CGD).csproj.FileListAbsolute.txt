@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Solution3\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe.config
+c:\users\simeonoff\source\repos\Solution3\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+c:\users\simeonoff\source\repos\Solution3\07. Greatest Common Divisor (CGD)\bin\Debug\_07.Greatest_Common_Divisor__CGD_.pdb
+c:\users\simeonoff\source\repos\Solution3\07. Greatest Common Divisor (CGD)\obj\Debug\07. Greatest Common Divisor (CGD).csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Solution3\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.exe
+c:\users\simeonoff\source\repos\Solution3\07. Greatest Common Divisor (CGD)\obj\Debug\_07.Greatest_Common_Divisor__CGD_.pdb

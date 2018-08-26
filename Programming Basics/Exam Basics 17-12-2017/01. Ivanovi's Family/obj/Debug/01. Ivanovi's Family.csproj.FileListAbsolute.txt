@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\bin\Debug\_01.Ivanovi_s_Family.exe.config
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\bin\Debug\_01.Ivanovi_s_Family.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\bin\Debug\_01.Ivanovi_s_Family.pdb
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\obj\Debug\01. Ivanovi's Family.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\obj\Debug\01. Ivanovi's Family.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\obj\Debug\_01.Ivanovi_s_Family.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\01. Ivanovi's Family\obj\Debug\_01.Ivanovi_s_Family.pdb

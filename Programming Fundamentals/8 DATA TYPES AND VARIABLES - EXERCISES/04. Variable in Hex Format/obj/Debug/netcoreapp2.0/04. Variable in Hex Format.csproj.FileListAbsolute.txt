@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\bin\Debug\netcoreapp2.0\04. Variable in Hex Format.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\bin\Debug\netcoreapp2.0\04. Variable in Hex Format.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\bin\Debug\netcoreapp2.0\04. Variable in Hex Format.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\bin\Debug\netcoreapp2.0\04. Variable in Hex Format.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\bin\Debug\netcoreapp2.0\04. Variable in Hex Format.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\obj\Debug\netcoreapp2.0\04. Variable in Hex Format.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\obj\Debug\netcoreapp2.0\04. Variable in Hex Format.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\obj\Debug\netcoreapp2.0\04. Variable in Hex Format.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\obj\Debug\netcoreapp2.0\04. Variable in Hex Format.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\04. Variable in Hex Format\obj\Debug\netcoreapp2.0\04. Variable in Hex Format.pdb

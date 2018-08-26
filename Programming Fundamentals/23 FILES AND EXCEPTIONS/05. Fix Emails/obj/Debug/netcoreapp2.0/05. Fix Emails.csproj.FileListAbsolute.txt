@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\bin\Debug\netcoreapp2.0\05. Fix Emails.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\bin\Debug\netcoreapp2.0\05. Fix Emails.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\bin\Debug\netcoreapp2.0\05. Fix Emails.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\bin\Debug\netcoreapp2.0\05. Fix Emails.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\bin\Debug\netcoreapp2.0\05. Fix Emails.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\obj\Debug\netcoreapp2.0\05. Fix Emails.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\obj\Debug\netcoreapp2.0\05. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\obj\Debug\netcoreapp2.0\05. Fix Emails.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\obj\Debug\netcoreapp2.0\05. Fix Emails.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\obj\Debug\netcoreapp2.0\05. Fix Emails.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\05. Fix Emails\obj\Debug\netcoreapp2.0\05. Fix Emails.pdb

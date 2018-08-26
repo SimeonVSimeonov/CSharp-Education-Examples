@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\bin\Debug\netcoreapp2.0\Quote Index Of.deps.json
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\bin\Debug\netcoreapp2.0\Quote Index Of.runtimeconfig.json
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\bin\Debug\netcoreapp2.0\Quote Index Of.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\bin\Debug\netcoreapp2.0\Quote Index Of.dll
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\bin\Debug\netcoreapp2.0\Quote Index Of.pdb
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\obj\Debug\netcoreapp2.0\Quote Index Of.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\obj\Debug\netcoreapp2.0\Quote Index Of.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\obj\Debug\netcoreapp2.0\Quote Index Of.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\obj\Debug\netcoreapp2.0\Quote Index Of.dll
+C:\Users\simeonoff\source\repos\String head 13\Quote Index Of\obj\Debug\netcoreapp2.0\Quote Index Of.pdb

@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\_03.Stop.exe.config
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\_03.Stop.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\bin\Debug\_03.Stop.pdb
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\03. Stop.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\03. Stop.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\_03.Stop.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\03. Stop\obj\Debug\_03.Stop.pdb

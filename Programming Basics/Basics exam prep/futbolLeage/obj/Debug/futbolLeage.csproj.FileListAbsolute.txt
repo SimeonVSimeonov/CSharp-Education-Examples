@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\bin\Debug\futbolLeage.exe.config
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\bin\Debug\futbolLeage.exe
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\bin\Debug\futbolLeage.pdb
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\obj\Debug\futbolLeage.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\obj\Debug\futbolLeage.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\obj\Debug\futbolLeage.exe
+c:\users\simeonoff\source\repos\25-11-2017\futbolLeage\obj\Debug\futbolLeage.pdb

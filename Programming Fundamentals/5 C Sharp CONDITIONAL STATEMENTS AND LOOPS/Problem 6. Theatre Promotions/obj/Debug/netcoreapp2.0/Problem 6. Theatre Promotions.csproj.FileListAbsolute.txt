@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\bin\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 6. Theatre Promotions\obj\Debug\netcoreapp2.0\Problem 6. Theatre Promotions.pdb

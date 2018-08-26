@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\25-11-2017\crown\bin\Debug\crown.exe.config
+c:\users\simeonoff\source\repos\25-11-2017\crown\bin\Debug\crown.exe
+c:\users\simeonoff\source\repos\25-11-2017\crown\bin\Debug\crown.pdb
+c:\users\simeonoff\source\repos\25-11-2017\crown\obj\Debug\crown.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\25-11-2017\crown\obj\Debug\crown.exe
+c:\users\simeonoff\source\repos\25-11-2017\crown\obj\Debug\crown.pdb
+c:\users\simeonoff\source\repos\25-11-2017\crown\obj\Debug\crown.csprojResolveAssemblyReference.cache

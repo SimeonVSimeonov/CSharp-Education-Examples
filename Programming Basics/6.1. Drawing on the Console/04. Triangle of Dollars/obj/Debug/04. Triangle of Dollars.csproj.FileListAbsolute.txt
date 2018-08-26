@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\04. Triangle of Dollars\bin\Debug\_04.Triangle_of_Dollars.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\04. Triangle of Dollars\obj\Debug\04. Triangle of Dollars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\04. Triangle of Dollars\obj\Debug\_04.Triangle_of_Dollars.pdb

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.deps.json
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.runtimeconfig.json
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.dll
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\bin\Debug\netcoreapp2.0\Padawan Equipment.pdb
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.dll
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.pdb
+C:\Users\simeonoff\source\repos\icarus\Padawan Equipment\obj\Debug\netcoreapp2.0\Padawan Equipment.csprojResolveAssemblyReference.cache

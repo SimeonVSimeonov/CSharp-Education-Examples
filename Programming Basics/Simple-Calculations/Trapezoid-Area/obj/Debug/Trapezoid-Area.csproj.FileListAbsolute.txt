@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\bin\Debug\Trapezoid-Area.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Trapezoid-Area\obj\Debug\Trapezoid-Area.pdb

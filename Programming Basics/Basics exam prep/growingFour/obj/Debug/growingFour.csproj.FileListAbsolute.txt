@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\bin\Debug\growingFour.exe.config
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\bin\Debug\growingFour.exe
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\bin\Debug\growingFour.pdb
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\obj\Debug\growingFour.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\obj\Debug\growingFour.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\obj\Debug\growingFour.exe
+c:\users\simeonoff\source\repos\25-11-2017\growingFour\obj\Debug\growingFour.pdb

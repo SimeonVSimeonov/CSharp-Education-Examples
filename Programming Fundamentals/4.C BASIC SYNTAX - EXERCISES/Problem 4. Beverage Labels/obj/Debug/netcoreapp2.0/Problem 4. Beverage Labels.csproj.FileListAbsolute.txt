@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\bin\Debug\netcoreapp2.0\Problem 4. Beverage Labels.deps.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\bin\Debug\netcoreapp2.0\Problem 4. Beverage Labels.runtimeconfig.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\bin\Debug\netcoreapp2.0\Problem 4. Beverage Labels.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\bin\Debug\netcoreapp2.0\Problem 4. Beverage Labels.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\bin\Debug\netcoreapp2.0\Problem 4. Beverage Labels.pdb
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\obj\Debug\netcoreapp2.0\Problem 4. Beverage Labels.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\obj\Debug\netcoreapp2.0\Problem 4. Beverage Labels.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\obj\Debug\netcoreapp2.0\Problem 4. Beverage Labels.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\obj\Debug\netcoreapp2.0\Problem 4. Beverage Labels.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\obj\Debug\netcoreapp2.0\Problem 4. Beverage Labels.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 4. Beverage Labels\obj\Debug\netcoreapp2.0\Problem 4. Beverage Labels.pdb

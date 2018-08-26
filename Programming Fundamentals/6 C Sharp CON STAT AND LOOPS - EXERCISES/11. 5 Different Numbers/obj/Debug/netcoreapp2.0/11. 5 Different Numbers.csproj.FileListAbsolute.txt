@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\bin\Debug\netcoreapp2.0\11. 5 Different Numbers.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\11. 5 Different Numbers\obj\Debug\netcoreapp2.0\11. 5 Different Numbers.pdb

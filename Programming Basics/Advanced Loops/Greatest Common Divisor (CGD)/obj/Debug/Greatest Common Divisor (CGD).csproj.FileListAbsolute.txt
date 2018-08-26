@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Advanced Loops\Greatest Common Divisor (CGD)\bin\Debug\Greatest Common Divisor (CGD).exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\Greatest Common Divisor (CGD)\bin\Debug\Greatest Common Divisor (CGD).exe
+c:\users\simeonoff\source\repos\Advanced Loops\Greatest Common Divisor (CGD)\bin\Debug\Greatest Common Divisor (CGD).pdb
+c:\users\simeonoff\source\repos\Advanced Loops\Greatest Common Divisor (CGD)\obj\Debug\Greatest Common Divisor (CGD).csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Greatest Common Divisor (CGD)\obj\Debug\Greatest Common Divisor (CGD).exe
+c:\users\simeonoff\source\repos\Advanced Loops\Greatest Common Divisor (CGD)\obj\Debug\Greatest Common Divisor (CGD).pdb

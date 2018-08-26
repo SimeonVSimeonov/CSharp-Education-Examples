@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe.config
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\bin\Debug\Personal-Titles.pdb
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Personal-Titles\obj\Debug\Personal-Titles.pdb

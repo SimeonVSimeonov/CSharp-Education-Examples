@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\bin\Debug\netcoreapp2.0\Problem 5. Foreign Languages.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 5. Foreign Languages\obj\Debug\netcoreapp2.0\Problem 5. Foreign Languages.pdb

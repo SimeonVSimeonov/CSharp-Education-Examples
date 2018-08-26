@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\bin\Debug\netcoreapp2.0\14.  Magic Letter.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\bin\Debug\netcoreapp2.0\14.  Magic Letter.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\bin\Debug\netcoreapp2.0\14.  Magic Letter.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\bin\Debug\netcoreapp2.0\14.  Magic Letter.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\bin\Debug\netcoreapp2.0\14.  Magic Letter.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\obj\Debug\netcoreapp2.0\14.  Magic Letter.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\obj\Debug\netcoreapp2.0\14.  Magic Letter.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\obj\Debug\netcoreapp2.0\14.  Magic Letter.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\obj\Debug\netcoreapp2.0\14.  Magic Letter.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\obj\Debug\netcoreapp2.0\14.  Magic Letter.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\14.  Magic Letter\obj\Debug\netcoreapp2.0\14.  Magic Letter.pdb

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\bin\Debug\netcoreapp2.0\09. Teamwork Projects.deps.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\bin\Debug\netcoreapp2.0\09. Teamwork Projects.runtimeconfig.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\bin\Debug\netcoreapp2.0\09. Teamwork Projects.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\bin\Debug\netcoreapp2.0\09. Teamwork Projects.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\bin\Debug\netcoreapp2.0\09. Teamwork Projects.pdb
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\obj\Debug\netcoreapp2.0\09. Teamwork Projects.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\obj\Debug\netcoreapp2.0\09. Teamwork Projects.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\obj\Debug\netcoreapp2.0\09. Teamwork Projects.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\obj\Debug\netcoreapp2.0\09. Teamwork Projects.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\obj\Debug\netcoreapp2.0\09. Teamwork Projects.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\09. Teamwork Projects\obj\Debug\netcoreapp2.0\09. Teamwork Projects.pdb

@@ -1,0 +1,10 @@
+D:\CSharpRepos\Methods Exercises\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.deps.json
+D:\CSharpRepos\Methods Exercises\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.runtimeconfig.json
+D:\CSharpRepos\Methods Exercises\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.runtimeconfig.dev.json
+D:\CSharpRepos\Methods Exercises\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.dll
+D:\CSharpRepos\Methods Exercises\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.pdb
+D:\CSharpRepos\Methods Exercises\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.csproj.CoreCompileInputs.cache
+D:\CSharpRepos\Methods Exercises\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.AssemblyInfoInputs.cache
+D:\CSharpRepos\Methods Exercises\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.AssemblyInfo.cs
+D:\CSharpRepos\Methods Exercises\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.dll
+D:\CSharpRepos\Methods Exercises\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.pdb

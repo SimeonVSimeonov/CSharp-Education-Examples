@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Advanced Loops\specialNum\bin\Debug\specialNum.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\specialNum\bin\Debug\specialNum.exe
+c:\users\simeonoff\source\repos\Advanced Loops\specialNum\bin\Debug\specialNum.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\specialNum\obj\Debug\specialNum.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\specialNum\obj\Debug\specialNum.exe
+c:\users\simeonoff\source\repos\Advanced Loops\specialNum\obj\Debug\specialNum.pdb

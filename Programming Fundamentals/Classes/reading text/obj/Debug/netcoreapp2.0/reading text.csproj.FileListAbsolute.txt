@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\Classes\reading text\bin\Debug\netcoreapp2.0\reading text.deps.json
+C:\Users\simeonoff\source\repos\Classes\reading text\bin\Debug\netcoreapp2.0\reading text.runtimeconfig.json
+C:\Users\simeonoff\source\repos\Classes\reading text\bin\Debug\netcoreapp2.0\reading text.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\Classes\reading text\bin\Debug\netcoreapp2.0\reading text.dll
+C:\Users\simeonoff\source\repos\Classes\reading text\bin\Debug\netcoreapp2.0\reading text.pdb
+C:\Users\simeonoff\source\repos\Classes\reading text\obj\Debug\netcoreapp2.0\reading text.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Classes\reading text\obj\Debug\netcoreapp2.0\reading text.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Classes\reading text\obj\Debug\netcoreapp2.0\reading text.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\Classes\reading text\obj\Debug\netcoreapp2.0\reading text.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\Classes\reading text\obj\Debug\netcoreapp2.0\reading text.dll
+C:\Users\simeonoff\source\repos\Classes\reading text\obj\Debug\netcoreapp2.0\reading text.pdb

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.deps.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.runtimeconfig.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\bin\Debug\netcoreapp2.0\Problem 1. Debit Card Number.pdb
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.dll
+C:\Users\simeonoff\source\repos\4.C BASIC SYNTAX - EXERCISES\Problem 1. Debit Card Number\obj\Debug\netcoreapp2.0\Problem 1. Debit Card Number.pdb

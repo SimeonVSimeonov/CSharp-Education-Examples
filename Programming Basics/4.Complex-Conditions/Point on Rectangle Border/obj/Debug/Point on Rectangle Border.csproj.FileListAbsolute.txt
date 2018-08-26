@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe.config
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\bin\Debug\Point on Rectangle Border.pdb
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.exe
+C:\Users\simeonoff\source\repos\4.Complex-Conditions\Point on Rectangle Border\obj\Debug\Point on Rectangle Border.pdb

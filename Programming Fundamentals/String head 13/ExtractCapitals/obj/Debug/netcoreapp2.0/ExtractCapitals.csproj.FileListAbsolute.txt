@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\bin\Debug\netcoreapp2.0\ExtractCapitals.deps.json
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\bin\Debug\netcoreapp2.0\ExtractCapitals.runtimeconfig.json
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\bin\Debug\netcoreapp2.0\ExtractCapitals.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\bin\Debug\netcoreapp2.0\ExtractCapitals.dll
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\bin\Debug\netcoreapp2.0\ExtractCapitals.pdb
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\obj\Debug\netcoreapp2.0\ExtractCapitals.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\obj\Debug\netcoreapp2.0\ExtractCapitals.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\obj\Debug\netcoreapp2.0\ExtractCapitals.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\obj\Debug\netcoreapp2.0\ExtractCapitals.dll
+C:\Users\simeonoff\source\repos\String head 13\ExtractCapitals\obj\Debug\netcoreapp2.0\ExtractCapitals.pdb

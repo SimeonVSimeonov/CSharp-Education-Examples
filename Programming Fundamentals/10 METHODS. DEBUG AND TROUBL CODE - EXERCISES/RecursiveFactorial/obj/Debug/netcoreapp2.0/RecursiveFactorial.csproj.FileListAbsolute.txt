@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\bin\Debug\netcoreapp2.0\RecursiveFactorial.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\RecursiveFactorial\obj\Debug\netcoreapp2.0\RecursiveFactorial.pdb

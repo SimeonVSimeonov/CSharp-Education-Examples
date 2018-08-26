@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.deps.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.runtimeconfig.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\bin\Debug\netcoreapp2.0\07. Andrey and Billiard.pdb
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.dll
+C:\Users\simeonoff\source\repos\17. OBJECTS AND CLASSES\07. Andrey and Billiard\obj\Debug\netcoreapp2.0\07. Andrey and Billiard.pdb

@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\bin\Debug\Latin Letters.exe.config
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\bin\Debug\Latin Letters.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\bin\Debug\Latin Letters.pdb
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\obj\Debug\Latin Letters.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\obj\Debug\Latin Letters.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\obj\Debug\Latin Letters.exe
+C:\Users\simeonoff\source\repos\Simple Loops\Latin Letters\obj\Debug\Latin Letters.pdb

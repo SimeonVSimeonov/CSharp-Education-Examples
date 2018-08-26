@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\bin\Debug\_04.Arrow.exe.config
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\bin\Debug\_04.Arrow.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\bin\Debug\_04.Arrow.pdb
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\obj\Debug\04. Arrow.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\obj\Debug\04. Arrow.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\obj\Debug\_04.Arrow.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\04. Arrow\obj\Debug\_04.Arrow.pdb

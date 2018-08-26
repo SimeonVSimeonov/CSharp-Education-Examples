@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\bin\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\01. Convert from base-10 to base-N\obj\Debug\netcoreapp2.0\01. Convert from base-10 to base-N.pdb

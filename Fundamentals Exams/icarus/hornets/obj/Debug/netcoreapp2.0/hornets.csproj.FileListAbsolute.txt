@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\icarus\hornets\bin\Debug\netcoreapp2.0\hornets.deps.json
+C:\Users\simeonoff\source\repos\icarus\hornets\bin\Debug\netcoreapp2.0\hornets.runtimeconfig.json
+C:\Users\simeonoff\source\repos\icarus\hornets\bin\Debug\netcoreapp2.0\hornets.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\icarus\hornets\bin\Debug\netcoreapp2.0\hornets.dll
+C:\Users\simeonoff\source\repos\icarus\hornets\bin\Debug\netcoreapp2.0\hornets.pdb
+C:\Users\simeonoff\source\repos\icarus\hornets\obj\Debug\netcoreapp2.0\hornets.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\icarus\hornets\obj\Debug\netcoreapp2.0\hornets.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\icarus\hornets\obj\Debug\netcoreapp2.0\hornets.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\icarus\hornets\obj\Debug\netcoreapp2.0\hornets.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\icarus\hornets\obj\Debug\netcoreapp2.0\hornets.dll
+C:\Users\simeonoff\source\repos\icarus\hornets\obj\Debug\netcoreapp2.0\hornets.pdb

@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\bin\Debug\netcoreapp2.0\19. Thea The Photographer.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\bin\Debug\netcoreapp2.0\19. Thea The Photographer.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\bin\Debug\netcoreapp2.0\19. Thea The Photographer.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\bin\Debug\netcoreapp2.0\19. Thea The Photographer.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\bin\Debug\netcoreapp2.0\19. Thea The Photographer.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\obj\Debug\netcoreapp2.0\19. Thea The Photographer.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\obj\Debug\netcoreapp2.0\19. Thea The Photographer.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\obj\Debug\netcoreapp2.0\19. Thea The Photographer.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\obj\Debug\netcoreapp2.0\19. Thea The Photographer.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\19. Thea The Photographer\obj\Debug\netcoreapp2.0\19. Thea The Photographer.pdb

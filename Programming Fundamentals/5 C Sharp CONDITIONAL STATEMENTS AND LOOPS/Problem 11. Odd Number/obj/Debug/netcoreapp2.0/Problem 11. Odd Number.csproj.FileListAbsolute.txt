@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\bin\Debug\netcoreapp2.0\Problem 11. Odd Number.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\bin\Debug\netcoreapp2.0\Problem 11. Odd Number.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\bin\Debug\netcoreapp2.0\Problem 11. Odd Number.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\bin\Debug\netcoreapp2.0\Problem 11. Odd Number.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\bin\Debug\netcoreapp2.0\Problem 11. Odd Number.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\obj\Debug\netcoreapp2.0\Problem 11. Odd Number.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\obj\Debug\netcoreapp2.0\Problem 11. Odd Number.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\obj\Debug\netcoreapp2.0\Problem 11. Odd Number.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\obj\Debug\netcoreapp2.0\Problem 11. Odd Number.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\obj\Debug\netcoreapp2.0\Problem 11. Odd Number.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 11. Odd Number\obj\Debug\netcoreapp2.0\Problem 11. Odd Number.pdb

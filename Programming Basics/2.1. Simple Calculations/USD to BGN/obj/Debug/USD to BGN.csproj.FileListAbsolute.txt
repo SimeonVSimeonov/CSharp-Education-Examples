@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\bin\Debug\USD to BGN.exe.config
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\bin\Debug\USD to BGN.exe
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\bin\Debug\USD to BGN.pdb
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\obj\Debug\USD to BGN.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\obj\Debug\USD to BGN.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\obj\Debug\USD to BGN.exe
+c:\users\simeonoff\source\repos\2.1book\USD to BGN\obj\Debug\USD to BGN.pdb

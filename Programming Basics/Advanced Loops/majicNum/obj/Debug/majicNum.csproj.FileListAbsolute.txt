@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\bin\Debug\majicNum.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\bin\Debug\majicNum.exe
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\bin\Debug\majicNum.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\obj\Debug\majicNum.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\obj\Debug\majicNum.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\obj\Debug\majicNum.exe
+c:\users\simeonoff\source\repos\Advanced Loops\majicNum\obj\Debug\majicNum.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\bin\Debug\Greeting.exe.config
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\bin\Debug\Greeting.exe
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\bin\Debug\Greeting.pdb
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.exe
+c:\users\simeonoff\source\repos\Simple-Calculations\Greeting\obj\Debug\Greeting.pdb

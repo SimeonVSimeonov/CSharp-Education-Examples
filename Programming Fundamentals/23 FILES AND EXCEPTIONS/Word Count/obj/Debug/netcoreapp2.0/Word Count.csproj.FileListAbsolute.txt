@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\bin\Debug\netcoreapp2.0\Word Count.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\bin\Debug\netcoreapp2.0\Word Count.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\bin\Debug\netcoreapp2.0\Word Count.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\bin\Debug\netcoreapp2.0\Word Count.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\bin\Debug\netcoreapp2.0\Word Count.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\obj\Debug\netcoreapp2.0\Word Count.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\obj\Debug\netcoreapp2.0\Word Count.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\obj\Debug\netcoreapp2.0\Word Count.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\obj\Debug\netcoreapp2.0\Word Count.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\obj\Debug\netcoreapp2.0\Word Count.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Word Count\obj\Debug\netcoreapp2.0\Word Count.csprojResolveAssemblyReference.cache

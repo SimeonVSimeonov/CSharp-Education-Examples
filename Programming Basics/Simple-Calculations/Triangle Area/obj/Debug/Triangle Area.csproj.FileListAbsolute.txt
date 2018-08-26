@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\Triangle Area\bin\Debug\Triangle Area.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\Triangle Area\bin\Debug\Triangle Area.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Triangle Area\bin\Debug\Triangle Area.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Triangle Area\obj\Debug\Triangle Area.pdb

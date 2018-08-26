@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe.config
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.exe
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\bin\Debug\Bonus Score.pdb
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.exe
+C:\Users\simeonoff\source\repos\Simple-Conditions\Bonus Score\obj\Debug\Bonus Score.pdb

@@ -1,0 +1,11 @@
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.deps.json
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.runtimeconfig.json
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.runtimeconfig.dev.json
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.dll
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.pdb
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.AssemblyInfoInputs.cache
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.AssemblyInfo.cs
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.dll
+c:\users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.pdb
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\bin\Debug\netcoreapp2.0\Problem 1. Passed.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 1. Passed\obj\Debug\netcoreapp2.0\Problem 1. Passed.pdb

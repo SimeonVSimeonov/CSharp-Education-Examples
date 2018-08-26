@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+C:\Users\simeonoff\source\repos\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+C:\Users\simeonoff\source\repos\TriangleOf55Stars\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+C:\Users\simeonoff\source\repos\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+C:\Users\simeonoff\source\repos\TriangleOf55Stars\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

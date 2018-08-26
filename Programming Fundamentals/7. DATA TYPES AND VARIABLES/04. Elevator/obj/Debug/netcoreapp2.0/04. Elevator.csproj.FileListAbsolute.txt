@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.deps.json
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.runtimeconfig.json
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.dll
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\bin\Debug\netcoreapp2.0\04. Elevator.pdb
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.dll
+C:\Users\simeonoff\source\repos\7. DATA TYPES AND VARIABLES\04. Elevator\obj\Debug\netcoreapp2.0\04. Elevator.pdb

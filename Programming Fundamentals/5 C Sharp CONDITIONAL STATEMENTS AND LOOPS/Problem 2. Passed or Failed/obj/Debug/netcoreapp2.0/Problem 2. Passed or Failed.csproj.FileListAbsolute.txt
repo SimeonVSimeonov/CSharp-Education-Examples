@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\bin\Debug\netcoreapp2.0\Problem 2. Passed or Failed.deps.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\bin\Debug\netcoreapp2.0\Problem 2. Passed or Failed.runtimeconfig.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\bin\Debug\netcoreapp2.0\Problem 2. Passed or Failed.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\bin\Debug\netcoreapp2.0\Problem 2. Passed or Failed.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\bin\Debug\netcoreapp2.0\Problem 2. Passed or Failed.pdb
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\obj\Debug\netcoreapp2.0\Problem 2. Passed or Failed.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\obj\Debug\netcoreapp2.0\Problem 2. Passed or Failed.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\obj\Debug\netcoreapp2.0\Problem 2. Passed or Failed.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\obj\Debug\netcoreapp2.0\Problem 2. Passed or Failed.dll
+C:\Users\simeonoff\source\repos\5 C Sharp CONDITIONAL STATEMENTS AND LOOPS\Problem 2. Passed or Failed\obj\Debug\netcoreapp2.0\Problem 2. Passed or Failed.pdb

@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in the Figure\bin\Debug\Point in the Figure.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in the Figure\bin\Debug\Point in the Figure.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in the Figure\bin\Debug\Point in the Figure.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in the Figure\obj\Debug\Point in the Figure.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in the Figure\obj\Debug\Point in the Figure.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in the Figure\obj\Debug\Point in the Figure.pdb

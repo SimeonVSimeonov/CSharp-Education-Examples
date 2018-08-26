@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\05. Fibonacci Numbers.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\05. Fibonacci Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\05. Fibonacci Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\05. Fibonacci Numbers.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\bin\Debug\netcoreapp2.0\05. Fibonacci Numbers.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\05. Fibonacci Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\05. Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\05. Fibonacci Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\05. Fibonacci Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\05. Fibonacci Numbers.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\05. Fibonacci Numbers\obj\Debug\netcoreapp2.0\05. Fibonacci Numbers.pdb

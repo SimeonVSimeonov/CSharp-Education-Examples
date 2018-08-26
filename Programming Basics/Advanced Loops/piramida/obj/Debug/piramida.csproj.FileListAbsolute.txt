@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\bin\Debug\piramida.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\bin\Debug\piramida.exe
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\bin\Debug\piramida.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\obj\Debug\piramida.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\obj\Debug\piramida.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\obj\Debug\piramida.exe
+c:\users\simeonoff\source\repos\Advanced Loops\piramida\obj\Debug\piramida.pdb

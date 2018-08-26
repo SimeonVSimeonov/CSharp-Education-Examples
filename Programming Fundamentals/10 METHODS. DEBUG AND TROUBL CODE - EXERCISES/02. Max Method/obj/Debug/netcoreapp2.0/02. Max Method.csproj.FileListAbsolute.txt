@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\bin\Debug\netcoreapp2.0\02. Max Method.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\02. Max Method\obj\Debug\netcoreapp2.0\02. Max Method.pdb

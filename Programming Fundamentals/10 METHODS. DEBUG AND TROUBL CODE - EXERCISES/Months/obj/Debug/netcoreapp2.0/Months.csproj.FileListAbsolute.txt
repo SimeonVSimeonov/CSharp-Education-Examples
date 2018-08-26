@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\bin\Debug\netcoreapp2.0\Months.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\bin\Debug\netcoreapp2.0\Months.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\bin\Debug\netcoreapp2.0\Months.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\bin\Debug\netcoreapp2.0\Months.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\bin\Debug\netcoreapp2.0\Months.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\obj\Debug\netcoreapp2.0\Months.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\obj\Debug\netcoreapp2.0\Months.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\obj\Debug\netcoreapp2.0\Months.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\obj\Debug\netcoreapp2.0\Months.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\obj\Debug\netcoreapp2.0\Months.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\Months\obj\Debug\netcoreapp2.0\Months.pdb

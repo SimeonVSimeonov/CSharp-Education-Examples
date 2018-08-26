@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\bin\Debug\_05.Square_Frame.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\bin\Debug\_05.Square_Frame.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\bin\Debug\_05.Square_Frame.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\obj\Debug\05. Square Frame.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\obj\Debug\05. Square Frame.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\obj\Debug\_05.Square_Frame.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\05. Square Frame\obj\Debug\_05.Square_Frame.pdb

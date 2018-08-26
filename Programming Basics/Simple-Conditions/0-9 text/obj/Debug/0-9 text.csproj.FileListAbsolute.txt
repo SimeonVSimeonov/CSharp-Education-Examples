@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\bin\Debug\0-9 text.exe.config
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\bin\Debug\0-9 text.exe
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\bin\Debug\0-9 text.pdb
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\obj\Debug\0-9 text.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\obj\Debug\0-9 text.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\obj\Debug\0-9 text.exe
+C:\Users\simeonoff\source\repos\Simple-Conditions\0-9 text\obj\Debug\0-9 text.pdb

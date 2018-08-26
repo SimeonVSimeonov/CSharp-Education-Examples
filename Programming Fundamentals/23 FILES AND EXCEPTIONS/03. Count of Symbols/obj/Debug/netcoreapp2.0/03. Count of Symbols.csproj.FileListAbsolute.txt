@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\bin\Debug\netcoreapp2.0\03. Count of Symbols.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\bin\Debug\netcoreapp2.0\03. Count of Symbols.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\bin\Debug\netcoreapp2.0\03. Count of Symbols.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\bin\Debug\netcoreapp2.0\03. Count of Symbols.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\bin\Debug\netcoreapp2.0\03. Count of Symbols.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\obj\Debug\netcoreapp2.0\03. Count of Symbols.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\obj\Debug\netcoreapp2.0\03. Count of Symbols.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\obj\Debug\netcoreapp2.0\03. Count of Symbols.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\obj\Debug\netcoreapp2.0\03. Count of Symbols.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\obj\Debug\netcoreapp2.0\03. Count of Symbols.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\03. Count of Symbols\obj\Debug\netcoreapp2.0\03. Count of Symbols.pdb

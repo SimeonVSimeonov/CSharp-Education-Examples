@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\icarus\icarus\bin\Debug\netcoreapp2.0\icarus.deps.json
+C:\Users\simeonoff\source\repos\icarus\icarus\bin\Debug\netcoreapp2.0\icarus.runtimeconfig.json
+C:\Users\simeonoff\source\repos\icarus\icarus\bin\Debug\netcoreapp2.0\icarus.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\icarus\icarus\bin\Debug\netcoreapp2.0\icarus.dll
+C:\Users\simeonoff\source\repos\icarus\icarus\bin\Debug\netcoreapp2.0\icarus.pdb
+C:\Users\simeonoff\source\repos\icarus\icarus\obj\Debug\netcoreapp2.0\icarus.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\icarus\icarus\obj\Debug\netcoreapp2.0\icarus.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\icarus\icarus\obj\Debug\netcoreapp2.0\icarus.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\icarus\icarus\obj\Debug\netcoreapp2.0\icarus.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\icarus\icarus\obj\Debug\netcoreapp2.0\icarus.dll
+C:\Users\simeonoff\source\repos\icarus\icarus\obj\Debug\netcoreapp2.0\icarus.pdb

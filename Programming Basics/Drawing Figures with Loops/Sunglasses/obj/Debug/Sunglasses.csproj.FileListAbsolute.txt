@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.pdb

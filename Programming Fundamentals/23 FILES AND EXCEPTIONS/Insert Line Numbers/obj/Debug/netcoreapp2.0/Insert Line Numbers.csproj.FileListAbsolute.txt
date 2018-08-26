@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\bin\Debug\netcoreapp2.0\Insert Line Numbers.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\bin\Debug\netcoreapp2.0\Insert Line Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\bin\Debug\netcoreapp2.0\Insert Line Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\bin\Debug\netcoreapp2.0\Insert Line Numbers.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\bin\Debug\netcoreapp2.0\Insert Line Numbers.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\obj\Debug\netcoreapp2.0\Insert Line Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\obj\Debug\netcoreapp2.0\Insert Line Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\obj\Debug\netcoreapp2.0\Insert Line Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\obj\Debug\netcoreapp2.0\Insert Line Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\obj\Debug\netcoreapp2.0\Insert Line Numbers.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Insert Line Numbers\obj\Debug\netcoreapp2.0\Insert Line Numbers.pdb

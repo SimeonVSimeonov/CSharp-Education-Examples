@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\Rectangle of N x N Stars.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\Rectangle of N x N Stars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of N x N Stars\bin\Debug\Rectangle of N x N Stars.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\Rectangle of N x N Stars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Rectangle of N x N Stars\obj\Debug\Rectangle of N x N Stars.pdb

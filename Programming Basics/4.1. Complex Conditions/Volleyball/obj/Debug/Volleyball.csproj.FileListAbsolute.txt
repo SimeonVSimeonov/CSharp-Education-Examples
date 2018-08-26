@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Volleyball\bin\Debug\Volleyball.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Volleyball\bin\Debug\Volleyball.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Volleyball\bin\Debug\Volleyball.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Volleyball\obj\Debug\Volleyball.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Volleyball\obj\Debug\Volleyball.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Volleyball\obj\Debug\Volleyball.pdb

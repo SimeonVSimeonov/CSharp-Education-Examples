@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\_02.Butterfly.exe.config
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\_02.Butterfly.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\bin\Debug\_02.Butterfly.pdb
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\02. Butterfly.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\02. Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\_02.Butterfly.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\02. Butterfly\obj\Debug\_02.Butterfly.pdb

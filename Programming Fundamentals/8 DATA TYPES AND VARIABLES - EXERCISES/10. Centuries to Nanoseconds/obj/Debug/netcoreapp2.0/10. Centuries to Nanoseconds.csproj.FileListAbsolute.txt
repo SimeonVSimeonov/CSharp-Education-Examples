@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\bin\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\10. Centuries to Nanoseconds\obj\Debug\netcoreapp2.0\10. Centuries to Nanoseconds.pdb

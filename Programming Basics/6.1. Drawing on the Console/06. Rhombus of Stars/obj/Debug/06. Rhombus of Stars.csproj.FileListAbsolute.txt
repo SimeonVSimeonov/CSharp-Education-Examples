@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\bin\Debug\_06.Rhombus_of_Stars.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\obj\Debug\06. Rhombus of Stars.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\obj\Debug\06. Rhombus of Stars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\obj\Debug\_06.Rhombus_of_Stars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\06. Rhombus of Stars\obj\Debug\_06.Rhombus_of_Stars.pdb

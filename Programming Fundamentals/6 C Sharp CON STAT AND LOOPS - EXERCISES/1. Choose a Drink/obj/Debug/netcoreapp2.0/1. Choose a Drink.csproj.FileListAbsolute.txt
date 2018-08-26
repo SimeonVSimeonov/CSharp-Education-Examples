@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\bin\Debug\netcoreapp2.0\1. Choose a Drink.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\bin\Debug\netcoreapp2.0\1. Choose a Drink.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\bin\Debug\netcoreapp2.0\1. Choose a Drink.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\bin\Debug\netcoreapp2.0\1. Choose a Drink.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\bin\Debug\netcoreapp2.0\1. Choose a Drink.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\obj\Debug\netcoreapp2.0\1. Choose a Drink.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\obj\Debug\netcoreapp2.0\1. Choose a Drink.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\obj\Debug\netcoreapp2.0\1. Choose a Drink.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\obj\Debug\netcoreapp2.0\1. Choose a Drink.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\obj\Debug\netcoreapp2.0\1. Choose a Drink.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\1. Choose a Drink\obj\Debug\netcoreapp2.0\1. Choose a Drink.pdb

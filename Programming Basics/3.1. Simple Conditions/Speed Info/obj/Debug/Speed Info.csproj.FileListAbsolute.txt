@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\bin\Debug\Speed Info.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\bin\Debug\Speed Info.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\bin\Debug\Speed Info.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\obj\Debug\Speed Info.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\obj\Debug\Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\obj\Debug\Speed Info.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Speed Info\obj\Debug\Speed Info.pdb

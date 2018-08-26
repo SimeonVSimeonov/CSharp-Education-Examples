@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\bin\Debug\netcoreapp2.0\01. Practice Integers.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\01. Practice Integers\obj\Debug\netcoreapp2.0\01. Practice Integers.pdb

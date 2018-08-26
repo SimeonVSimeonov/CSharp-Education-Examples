@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\_05.Axe.exe.config
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\_05.Axe.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\bin\Debug\_05.Axe.pdb
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\05. Axe.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\05. Axe.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\_05.Axe.exe
+C:\Users\simeonoff\source\repos\6.2. Drawing on the Console - Exam Problems\05. Axe\obj\Debug\_05.Axe.pdb

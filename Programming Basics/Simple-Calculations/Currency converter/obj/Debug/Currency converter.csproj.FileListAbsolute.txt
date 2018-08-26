@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\bin\Debug\Currency converter.exe.config
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\bin\Debug\Currency converter.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\bin\Debug\Currency converter.pdb
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\obj\Debug\Currency converter.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\obj\Debug\Currency converter.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\obj\Debug\Currency converter.exe
+C:\Users\simeonoff\source\repos\Simple-Calculations\Currency converter\obj\Debug\Currency converter.pdb

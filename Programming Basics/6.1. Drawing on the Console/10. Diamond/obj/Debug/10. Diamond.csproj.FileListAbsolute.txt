@@ -1,0 +1,7 @@
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\bin\Debug\_10.Diamond.exe.config
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\bin\Debug\_10.Diamond.exe
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\bin\Debug\_10.Diamond.pdb
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\obj\Debug\10. Diamond.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\obj\Debug\10. Diamond.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\obj\Debug\_10.Diamond.exe
+C:\Users\simeonoff\source\repos\6.1. Drawing on the Console\10. Diamond\obj\Debug\_10.Diamond.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\bin\Debug\Sum Digits.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Sum Digits\obj\Debug\Sum Digits.pdb

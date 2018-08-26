@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\bin\Debug\netcoreapp2.0\13. Vowel or Digit.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\13. Vowel or Digit\obj\Debug\netcoreapp2.0\13. Vowel or Digit.pdb

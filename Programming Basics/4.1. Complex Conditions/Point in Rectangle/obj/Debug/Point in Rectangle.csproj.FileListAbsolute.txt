@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\bin\Debug\Point in Rectangle.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\bin\Debug\Point in Rectangle.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\bin\Debug\Point in Rectangle.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\obj\Debug\Point in Rectangle.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\obj\Debug\Point in Rectangle.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\obj\Debug\Point in Rectangle.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Point in Rectangle\obj\Debug\Point in Rectangle.pdb

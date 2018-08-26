@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\bin\Debug\Pipes In Pool.exe.config
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\bin\Debug\Pipes In Pool.exe
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\bin\Debug\Pipes In Pool.pdb
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\obj\Debug\Pipes In Pool.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\obj\Debug\Pipes In Pool.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\obj\Debug\Pipes In Pool.exe
+c:\users\simeonoff\source\repos\3.2. Simple Conditions - Exam Problems\Pipes In Pool\obj\Debug\Pipes In Pool.pdb

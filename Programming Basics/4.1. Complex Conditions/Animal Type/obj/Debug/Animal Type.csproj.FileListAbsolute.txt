@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Animal Type\bin\Debug\Animal Type.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Animal Type\bin\Debug\Animal Type.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Animal Type\bin\Debug\Animal Type.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Animal Type\obj\Debug\Animal Type.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Animal Type\obj\Debug\Animal Type.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Animal Type\obj\Debug\Animal Type.pdb

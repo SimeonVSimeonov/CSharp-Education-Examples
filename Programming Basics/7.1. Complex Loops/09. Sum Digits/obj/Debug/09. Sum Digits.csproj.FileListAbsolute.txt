@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\7.1. Complex Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe.config
+c:\users\simeonoff\source\repos\7.1. Complex Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\09. Sum Digits\bin\Debug\_09.Sum_Digits.pdb
+c:\users\simeonoff\source\repos\7.1. Complex Loops\09. Sum Digits\obj\Debug\09. Sum Digits.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\7.1. Complex Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\09. Sum Digits\obj\Debug\_09.Sum_Digits.pdb

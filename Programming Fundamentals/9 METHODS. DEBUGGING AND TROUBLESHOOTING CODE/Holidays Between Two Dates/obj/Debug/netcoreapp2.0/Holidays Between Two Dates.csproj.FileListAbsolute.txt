@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\bin\Debug\netcoreapp2.0\Holidays Between Two Dates.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Holidays Between Two Dates\obj\Debug\netcoreapp2.0\Holidays Between Two Dates.csprojResolveAssemblyReference.cache

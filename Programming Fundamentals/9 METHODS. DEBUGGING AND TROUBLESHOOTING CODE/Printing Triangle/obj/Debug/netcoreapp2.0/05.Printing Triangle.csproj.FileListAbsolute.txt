@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\obj\Debug\netcoreapp2.0\05.Printing Triangle.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\obj\Debug\netcoreapp2.0\05.Printing Triangle.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\obj\Debug\netcoreapp2.0\05.Printing Triangle.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\obj\Debug\netcoreapp2.0\05.Printing Triangle.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\bin\Debug\netcoreapp2.0\05.Printing Triangle.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\bin\Debug\netcoreapp2.0\05.Printing Triangle.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\bin\Debug\netcoreapp2.0\05.Printing Triangle.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\bin\Debug\netcoreapp2.0\05.Printing Triangle.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\bin\Debug\netcoreapp2.0\05.Printing Triangle.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\obj\Debug\netcoreapp2.0\05.Printing Triangle.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Printing Triangle\obj\Debug\netcoreapp2.0\05.Printing Triangle.pdb

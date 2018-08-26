@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.deps.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.dll
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\bin\Debug\netcoreapp2.0\05. Hands of Cards.pdb
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.dll
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\05. Hands of Cards\obj\Debug\netcoreapp2.0\05. Hands of Cards.pdb

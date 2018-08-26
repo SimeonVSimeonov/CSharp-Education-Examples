@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\bin\Debug\netcoreapp2.0\Odd Lines.deps.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\bin\Debug\netcoreapp2.0\Odd Lines.runtimeconfig.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\bin\Debug\netcoreapp2.0\Odd Lines.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\bin\Debug\netcoreapp2.0\Odd Lines.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\bin\Debug\netcoreapp2.0\Odd Lines.pdb
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\obj\Debug\netcoreapp2.0\Odd Lines.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\obj\Debug\netcoreapp2.0\Odd Lines.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\obj\Debug\netcoreapp2.0\Odd Lines.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\obj\Debug\netcoreapp2.0\Odd Lines.dll
+C:\Users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\Odd Lines\obj\Debug\netcoreapp2.0\Odd Lines.pdb

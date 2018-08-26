@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\bin\Debug\netcoreapp2.0\01. Blank Receipt.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\bin\Debug\netcoreapp2.0\01. Blank Receipt.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\bin\Debug\netcoreapp2.0\01. Blank Receipt.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\bin\Debug\netcoreapp2.0\01. Blank Receipt.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\bin\Debug\netcoreapp2.0\01. Blank Receipt.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\obj\Debug\netcoreapp2.0\01. Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\obj\Debug\netcoreapp2.0\01. Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\obj\Debug\netcoreapp2.0\01. Blank Receipt.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\obj\Debug\netcoreapp2.0\01. Blank Receipt.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\obj\Debug\netcoreapp2.0\01. Blank Receipt.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\01. Blank Receipt\obj\Debug\netcoreapp2.0\01. Blank Receipt.pdb

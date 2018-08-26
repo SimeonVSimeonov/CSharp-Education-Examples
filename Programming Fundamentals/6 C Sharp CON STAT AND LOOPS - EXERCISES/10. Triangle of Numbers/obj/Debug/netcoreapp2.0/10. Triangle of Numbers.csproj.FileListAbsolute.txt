@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\bin\Debug\netcoreapp2.0\10. Triangle of Numbers.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\10. Triangle of Numbers\obj\Debug\netcoreapp2.0\10. Triangle of Numbers.pdb

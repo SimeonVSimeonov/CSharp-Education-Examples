@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\bin\Debug\netcoreapp2.0\3. Restaurant Discount.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\bin\Debug\netcoreapp2.0\3. Restaurant Discount.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\bin\Debug\netcoreapp2.0\3. Restaurant Discount.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\bin\Debug\netcoreapp2.0\3. Restaurant Discount.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\bin\Debug\netcoreapp2.0\3. Restaurant Discount.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\obj\Debug\netcoreapp2.0\3. Restaurant Discount.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\obj\Debug\netcoreapp2.0\3. Restaurant Discount.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\obj\Debug\netcoreapp2.0\3. Restaurant Discount.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\obj\Debug\netcoreapp2.0\3. Restaurant Discount.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\obj\Debug\netcoreapp2.0\3. Restaurant Discount.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\3. Restaurant Discount\obj\Debug\netcoreapp2.0\3. Restaurant Discount.pdb

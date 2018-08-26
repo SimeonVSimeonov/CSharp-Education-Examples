@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\bin\Debug\stupidPass.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\bin\Debug\stupidPass.exe
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\bin\Debug\stupidPass.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\obj\Debug\stupidPass.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\obj\Debug\stupidPass.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\obj\Debug\stupidPass.exe
+c:\users\simeonoff\source\repos\Advanced Loops\stupidPass\obj\Debug\stupidPass.pdb

@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.pdb

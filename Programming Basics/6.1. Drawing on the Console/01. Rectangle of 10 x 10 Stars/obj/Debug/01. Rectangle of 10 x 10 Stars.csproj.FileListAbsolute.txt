@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\bin\Debug\_01.Rectangle_of_10_x_10_Stars.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\obj\Debug\01. Rectangle of 10 x 10 Stars.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\obj\Debug\01. Rectangle of 10 x 10 Stars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\obj\Debug\_01.Rectangle_of_10_x_10_Stars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\01. Rectangle of 10 x 10 Stars\obj\Debug\_01.Rectangle_of_10_x_10_Stars.pdb

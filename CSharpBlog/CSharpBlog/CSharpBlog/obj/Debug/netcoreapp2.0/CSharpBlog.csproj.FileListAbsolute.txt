@@ -1,0 +1,12 @@
+D:\CSharpBlog\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.deps.json
+D:\CSharpBlog\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.runtimeconfig.json
+D:\CSharpBlog\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.runtimeconfig.dev.json
+D:\CSharpBlog\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.dll
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.csprojResolveAssemblyReference.cache
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.csproj.CoreCompileInputs.cache
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.AssemblyInfoInputs.cache
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.AssemblyInfo.cs
+D:\CSharpBlog\CSharpBlog\CSharpBlog\bin\Debug\netcoreapp2.0\CSharpBlog.pdb
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.dll
+D:\CSharpBlog\CSharpBlog\CSharpBlog\obj\Debug\netcoreapp2.0\CSharpBlog.pdb

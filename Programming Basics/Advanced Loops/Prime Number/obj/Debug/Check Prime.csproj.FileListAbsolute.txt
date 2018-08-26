@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\bin\Debug\Prime Number.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\bin\Debug\Prime Number.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\bin\Debug\Prime Number.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\obj\Debug\Check Prime.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\obj\Debug\Check Prime.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\obj\Debug\Prime Number.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Prime Number\obj\Debug\Prime Number.pdb

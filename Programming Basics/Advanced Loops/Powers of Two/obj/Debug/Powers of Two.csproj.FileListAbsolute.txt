@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Advanced Loops\Powers of Two\bin\Debug\Powers of Two.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\Powers of Two\bin\Debug\Powers of Two.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Powers of Two\bin\Debug\Powers of Two.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\Powers of Two\obj\Debug\Powers of Two.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Powers of Two\obj\Debug\Powers of Two.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Powers of Two\obj\Debug\Powers of Two.pdb

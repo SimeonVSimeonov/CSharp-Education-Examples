@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\bin\Debug\netcoreapp2.0\06. Valid Usernames.deps.json
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\bin\Debug\netcoreapp2.0\06. Valid Usernames.runtimeconfig.json
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\bin\Debug\netcoreapp2.0\06. Valid Usernames.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\bin\Debug\netcoreapp2.0\06. Valid Usernames.dll
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\bin\Debug\netcoreapp2.0\06. Valid Usernames.pdb
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\obj\Debug\netcoreapp2.0\06. Valid Usernames.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\obj\Debug\netcoreapp2.0\06. Valid Usernames.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\obj\Debug\netcoreapp2.0\06. Valid Usernames.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\obj\Debug\netcoreapp2.0\06. Valid Usernames.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\obj\Debug\netcoreapp2.0\06. Valid Usernames.dll
+C:\Users\simeonoff\source\repos\RegEx\06. Valid Usernames\obj\Debug\netcoreapp2.0\06. Valid Usernames.pdb

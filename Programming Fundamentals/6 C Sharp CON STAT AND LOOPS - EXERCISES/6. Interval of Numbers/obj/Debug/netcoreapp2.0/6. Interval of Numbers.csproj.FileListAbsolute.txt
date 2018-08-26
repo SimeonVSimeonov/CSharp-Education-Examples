@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\bin\Debug\netcoreapp2.0\6. Interval of Numbers.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\bin\Debug\netcoreapp2.0\6. Interval of Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\bin\Debug\netcoreapp2.0\6. Interval of Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\bin\Debug\netcoreapp2.0\6. Interval of Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\bin\Debug\netcoreapp2.0\6. Interval of Numbers.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\obj\Debug\netcoreapp2.0\6. Interval of Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\obj\Debug\netcoreapp2.0\6. Interval of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\obj\Debug\netcoreapp2.0\6. Interval of Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\obj\Debug\netcoreapp2.0\6. Interval of Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\obj\Debug\netcoreapp2.0\6. Interval of Numbers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\6. Interval of Numbers\obj\Debug\netcoreapp2.0\6. Interval of Numbers.pdb

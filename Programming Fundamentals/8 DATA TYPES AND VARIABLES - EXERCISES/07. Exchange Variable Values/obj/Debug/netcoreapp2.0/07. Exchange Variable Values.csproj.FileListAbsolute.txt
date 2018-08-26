@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\bin\Debug\netcoreapp2.0\07. Exchange Variable Values.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\07. Exchange Variable Values\obj\Debug\netcoreapp2.0\07. Exchange Variable Values.pdb

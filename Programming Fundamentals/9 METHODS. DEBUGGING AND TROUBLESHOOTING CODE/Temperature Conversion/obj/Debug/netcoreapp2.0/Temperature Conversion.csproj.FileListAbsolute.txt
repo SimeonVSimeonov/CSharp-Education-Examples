@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.deps.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.runtimeconfig.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\bin\Debug\netcoreapp2.0\Temperature Conversion.pdb
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.dll
+C:\Users\simeonoff\source\repos\9 METHODS. DEBUGGING AND TROUBLESHOOTING CODE\Temperature Conversion\obj\Debug\netcoreapp2.0\Temperature Conversion.pdb

@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Solution3\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe.config
+c:\users\simeonoff\source\repos\Solution3\03. Powers of Two\bin\Debug\_03.Powers_of_Two.exe
+c:\users\simeonoff\source\repos\Solution3\03. Powers of Two\bin\Debug\_03.Powers_of_Two.pdb
+c:\users\simeonoff\source\repos\Solution3\03. Powers of Two\obj\Debug\03. Powers of Two.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Solution3\03. Powers of Two\obj\Debug\_03.Powers_of_Two.exe
+c:\users\simeonoff\source\repos\Solution3\03. Powers of Two\obj\Debug\_03.Powers_of_Two.pdb

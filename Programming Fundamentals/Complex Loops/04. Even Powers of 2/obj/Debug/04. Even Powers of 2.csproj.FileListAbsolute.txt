@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Solution3\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe.config
+c:\users\simeonoff\source\repos\Solution3\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.exe
+c:\users\simeonoff\source\repos\Solution3\04. Even Powers of 2\bin\Debug\_04.Even_Powers_of_2.pdb
+c:\users\simeonoff\source\repos\Solution3\04. Even Powers of 2\obj\Debug\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Solution3\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.exe
+c:\users\simeonoff\source\repos\Solution3\04. Even Powers of 2\obj\Debug\_04.Even_Powers_of_2.pdb

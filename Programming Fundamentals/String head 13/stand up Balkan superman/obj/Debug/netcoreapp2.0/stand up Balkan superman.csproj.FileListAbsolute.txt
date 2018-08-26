@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\bin\Debug\netcoreapp2.0\stand up Balkan superman.deps.json
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\bin\Debug\netcoreapp2.0\stand up Balkan superman.runtimeconfig.json
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\bin\Debug\netcoreapp2.0\stand up Balkan superman.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\bin\Debug\netcoreapp2.0\stand up Balkan superman.dll
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\bin\Debug\netcoreapp2.0\stand up Balkan superman.pdb
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\obj\Debug\netcoreapp2.0\stand up Balkan superman.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\obj\Debug\netcoreapp2.0\stand up Balkan superman.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\obj\Debug\netcoreapp2.0\stand up Balkan superman.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\obj\Debug\netcoreapp2.0\stand up Balkan superman.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\obj\Debug\netcoreapp2.0\stand up Balkan superman.dll
+C:\Users\simeonoff\source\repos\String head 13\stand up Balkan superman\obj\Debug\netcoreapp2.0\stand up Balkan superman.pdb

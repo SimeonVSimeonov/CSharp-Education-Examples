@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\bin\Debug\netcoreapp2.0\9. Count the Integers.deps.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\bin\Debug\netcoreapp2.0\9. Count the Integers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\bin\Debug\netcoreapp2.0\9. Count the Integers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\bin\Debug\netcoreapp2.0\9. Count the Integers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\bin\Debug\netcoreapp2.0\9. Count the Integers.pdb
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\obj\Debug\netcoreapp2.0\9. Count the Integers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\obj\Debug\netcoreapp2.0\9. Count the Integers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\obj\Debug\netcoreapp2.0\9. Count the Integers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\obj\Debug\netcoreapp2.0\9. Count the Integers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\obj\Debug\netcoreapp2.0\9. Count the Integers.dll
+C:\Users\simeonoff\source\repos\6 C Sharp CON STAT AND LOOPS - EXERCISES\9. Count the Integers\obj\Debug\netcoreapp2.0\9. Count the Integers.pdb

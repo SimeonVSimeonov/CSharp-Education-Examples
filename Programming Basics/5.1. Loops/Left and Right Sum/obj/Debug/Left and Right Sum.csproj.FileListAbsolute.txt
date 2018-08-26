@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\bin\Debug\Left and Right Sum.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\bin\Debug\Left and Right Sum.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\obj\Debug\Left and Right Sum.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\obj\Debug\Left and Right Sum.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\obj\Debug\Left and Right Sum.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Left and Right Sum\obj\Debug\Left and Right Sum.pdb

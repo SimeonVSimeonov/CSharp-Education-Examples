@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Greater Number\bin\Debug\Greater Number.exe.config
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Greater Number\bin\Debug\Greater Number.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Greater Number\bin\Debug\Greater Number.pdb
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Greater Number\obj\Debug\Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Greater Number\obj\Debug\Greater Number.exe
+C:\Users\simeonoff\source\repos\3.1. Simple Conditions\Greater Number\obj\Debug\Greater Number.pdb

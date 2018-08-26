@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe.config
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\bin\Debug\_10.Check_Prime.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\bin\Debug\_10.Check_Prime.pdb
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\obj\Debug\10. Check Prime.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\obj\Debug\_10.Check_Prime.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\obj\Debug\_10.Check_Prime.pdb
+c:\users\simeonoff\source\repos\7.1. Complex Loops\10. Check Prime\obj\Debug\10. Check Prime.csprojResolveAssemblyReference.cache

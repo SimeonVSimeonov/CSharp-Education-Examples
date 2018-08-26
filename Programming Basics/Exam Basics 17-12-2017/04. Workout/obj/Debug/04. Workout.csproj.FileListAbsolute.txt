@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\bin\Debug\_04.Workout.exe.config
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\bin\Debug\_04.Workout.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\bin\Debug\_04.Workout.pdb
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\obj\Debug\04. Workout.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\obj\Debug\04. Workout.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\obj\Debug\_04.Workout.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\04. Workout\obj\Debug\_04.Workout.pdb

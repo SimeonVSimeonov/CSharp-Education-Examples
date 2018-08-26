@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\bin\Debug\netcoreapp2.0\12. Rectangle Properties.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\bin\Debug\netcoreapp2.0\12. Rectangle Properties.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\bin\Debug\netcoreapp2.0\12. Rectangle Properties.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\bin\Debug\netcoreapp2.0\12. Rectangle Properties.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\bin\Debug\netcoreapp2.0\12. Rectangle Properties.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\obj\Debug\netcoreapp2.0\12. Rectangle Properties.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\obj\Debug\netcoreapp2.0\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\obj\Debug\netcoreapp2.0\12. Rectangle Properties.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\obj\Debug\netcoreapp2.0\12. Rectangle Properties.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\obj\Debug\netcoreapp2.0\12. Rectangle Properties.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\12. Rectangle Properties\obj\Debug\netcoreapp2.0\12. Rectangle Properties.pdb

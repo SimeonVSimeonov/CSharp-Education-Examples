@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.deps.json
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.runtimeconfig.json
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.dll
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\bin\Debug\netcoreapp2.0\Kamino Factory.pdb
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.dll
+C:\Users\simeonoff\source\repos\icarus\Kamino Factory\obj\Debug\netcoreapp2.0\Kamino Factory.pdb

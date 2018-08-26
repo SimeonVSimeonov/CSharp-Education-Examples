@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\bin\Debug\_12.Break_Sum.exe.config
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\bin\Debug\_12.Break_Sum.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\bin\Debug\_12.Break_Sum.pdb
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\obj\Debug\12. Break Sum.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\obj\Debug\12. Break Sum.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\obj\Debug\_12.Break_Sum.exe
+c:\users\simeonoff\source\repos\7.1. Complex Loops\12. Break Sum\obj\Debug\_12.Break_Sum.pdb

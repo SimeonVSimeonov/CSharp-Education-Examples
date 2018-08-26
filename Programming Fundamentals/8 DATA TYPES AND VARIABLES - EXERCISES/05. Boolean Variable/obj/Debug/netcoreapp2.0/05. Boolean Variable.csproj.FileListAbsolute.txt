@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\bin\Debug\netcoreapp2.0\05. Boolean Variable.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\05. Boolean Variable\obj\Debug\netcoreapp2.0\05. Boolean Variable.pdb

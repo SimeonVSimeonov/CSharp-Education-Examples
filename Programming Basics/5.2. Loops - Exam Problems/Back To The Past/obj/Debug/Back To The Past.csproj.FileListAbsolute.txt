@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\bin\Debug\Back To The Past.exe.config
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\bin\Debug\Back To The Past.exe
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\bin\Debug\Back To The Past.pdb
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\obj\Debug\Back To The Past.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\obj\Debug\Back To The Past.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\obj\Debug\Back To The Past.exe
+c:\users\simeonoff\source\repos\5.2. Loops - Exam Problems\Back To The Past\obj\Debug\Back To The Past.pdb

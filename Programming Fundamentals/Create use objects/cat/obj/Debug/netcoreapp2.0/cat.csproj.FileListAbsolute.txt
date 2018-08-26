@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\Create use objects\cat\bin\Debug\netcoreapp2.0\cat.deps.json
+C:\Users\simeonoff\source\repos\Create use objects\cat\bin\Debug\netcoreapp2.0\cat.runtimeconfig.json
+C:\Users\simeonoff\source\repos\Create use objects\cat\bin\Debug\netcoreapp2.0\cat.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\Create use objects\cat\bin\Debug\netcoreapp2.0\cat.dll
+C:\Users\simeonoff\source\repos\Create use objects\cat\bin\Debug\netcoreapp2.0\cat.pdb
+C:\Users\simeonoff\source\repos\Create use objects\cat\obj\Debug\netcoreapp2.0\cat.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\Create use objects\cat\obj\Debug\netcoreapp2.0\cat.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\Create use objects\cat\obj\Debug\netcoreapp2.0\cat.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\Create use objects\cat\obj\Debug\netcoreapp2.0\cat.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\Create use objects\cat\obj\Debug\netcoreapp2.0\cat.dll
+C:\Users\simeonoff\source\repos\Create use objects\cat\obj\Debug\netcoreapp2.0\cat.pdb

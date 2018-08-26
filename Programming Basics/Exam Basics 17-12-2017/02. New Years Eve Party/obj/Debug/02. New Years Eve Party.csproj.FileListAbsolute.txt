@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.exe.config
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\bin\Debug\_02.New_Years_Eve_Party.pdb
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\obj\Debug\02. New Years Eve Party.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\obj\Debug\02. New Years Eve Party.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\obj\Debug\_02.New_Years_Eve_Party.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\02. New Years Eve Party\obj\Debug\_02.New_Years_Eve_Party.pdb

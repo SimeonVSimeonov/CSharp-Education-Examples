@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers N-1\bin\Debug\Numbers N-1.exe.config
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers N-1\bin\Debug\Numbers N-1.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers N-1\bin\Debug\Numbers N-1.pdb
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers N-1\obj\Debug\Numbers N-1.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers N-1\obj\Debug\Numbers N-1.exe
+c:\users\simeonoff\source\repos\Advanced Loops\Numbers N-1\obj\Debug\Numbers N-1.pdb

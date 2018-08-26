@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\bin\Debug\_05.Christmas_Sock.exe.config
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\bin\Debug\_05.Christmas_Sock.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\bin\Debug\_05.Christmas_Sock.pdb
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\obj\Debug\05. Christmas Sock.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\obj\Debug\05. Christmas Sock.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\obj\Debug\_05.Christmas_Sock.exe
+c:\users\simeonoff\source\repos\exam17-12-2017\05. Christmas Sock\obj\Debug\_05.Christmas_Sock.pdb

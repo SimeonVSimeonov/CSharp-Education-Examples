@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\bin\Debug\netcoreapp2.0\DataValidation.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\bin\Debug\netcoreapp2.0\DataValidation.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\bin\Debug\netcoreapp2.0\DataValidation.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\bin\Debug\netcoreapp2.0\DataValidation.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\bin\Debug\netcoreapp2.0\DataValidation.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\obj\Debug\netcoreapp2.0\DataValidation.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\obj\Debug\netcoreapp2.0\DataValidation.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\obj\Debug\netcoreapp2.0\DataValidation.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\obj\Debug\netcoreapp2.0\DataValidation.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\DataValidation\obj\Debug\netcoreapp2.0\DataValidation.pdb

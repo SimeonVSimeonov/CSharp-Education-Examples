@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit Shop\bin\Debug\Fruit Shop.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit Shop\bin\Debug\Fruit Shop.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit Shop\bin\Debug\Fruit Shop.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit Shop\obj\Debug\Fruit Shop.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit Shop\obj\Debug\Fruit Shop.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Fruit Shop\obj\Debug\Fruit Shop.pdb

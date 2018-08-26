@@ -1,0 +1,11 @@
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.deps.json
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.runtimeconfig.json
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.runtimeconfig.dev.json
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.dll
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\bin\Debug\netcoreapp2.0\01. Most Frequent Number.pdb
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.AssemblyInfoInputs.cache
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.AssemblyInfo.cs
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.dll
+c:\users\simeonoff\source\repos\23 FILES AND EXCEPTIONS\01. Most Frequent Number\obj\Debug\netcoreapp2.0\01. Most Frequent Number.pdb

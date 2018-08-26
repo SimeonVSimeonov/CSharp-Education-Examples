@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.pdb

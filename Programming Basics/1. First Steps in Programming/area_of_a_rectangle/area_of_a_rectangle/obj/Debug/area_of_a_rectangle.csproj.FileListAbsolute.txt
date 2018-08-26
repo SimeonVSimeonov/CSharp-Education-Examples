@@ -1,0 +1,6 @@
+C:\Users\simeonoff\source\repos\area_of_a_rectangle\area_of_a_rectangle\bin\Debug\area_of_a_rectangle.exe.config
+C:\Users\simeonoff\source\repos\area_of_a_rectangle\area_of_a_rectangle\bin\Debug\area_of_a_rectangle.exe
+C:\Users\simeonoff\source\repos\area_of_a_rectangle\area_of_a_rectangle\bin\Debug\area_of_a_rectangle.pdb
+C:\Users\simeonoff\source\repos\area_of_a_rectangle\area_of_a_rectangle\obj\Debug\area_of_a_rectangle.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\area_of_a_rectangle\area_of_a_rectangle\obj\Debug\area_of_a_rectangle.exe
+C:\Users\simeonoff\source\repos\area_of_a_rectangle\area_of_a_rectangle\obj\Debug\area_of_a_rectangle.pdb

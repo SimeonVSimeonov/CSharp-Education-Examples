@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Latin Letters\bin\Debug\Latin Letters.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Latin Letters\bin\Debug\Latin Letters.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Latin Letters\bin\Debug\Latin Letters.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Latin Letters\obj\Debug\Latin Letters.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Latin Letters\obj\Debug\Latin Letters.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Latin Letters\obj\Debug\Latin Letters.pdb

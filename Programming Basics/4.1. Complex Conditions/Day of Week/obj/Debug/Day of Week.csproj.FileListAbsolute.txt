@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Day of Week\bin\Debug\Day of Week.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Day of Week\bin\Debug\Day of Week.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Day of Week\bin\Debug\Day of Week.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Day of Week\obj\Debug\Day of Week.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Day of Week\obj\Debug\Day of Week.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Day of Week\obj\Debug\Day of Week.pdb

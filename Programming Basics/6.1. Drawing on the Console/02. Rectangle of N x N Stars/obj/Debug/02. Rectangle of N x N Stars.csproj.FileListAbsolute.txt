@@ -1,0 +1,6 @@
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\02. Rectangle of N x N Stars\bin\Debug\_02.Rectangle_of_N_x_N_Stars.exe.config
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\02. Rectangle of N x N Stars\bin\Debug\_02.Rectangle_of_N_x_N_Stars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\02. Rectangle of N x N Stars\bin\Debug\_02.Rectangle_of_N_x_N_Stars.pdb
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\02. Rectangle of N x N Stars\obj\Debug\02. Rectangle of N x N Stars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\02. Rectangle of N x N Stars\obj\Debug\_02.Rectangle_of_N_x_N_Stars.exe
+c:\users\simeonoff\source\repos\6.1. Drawing on the Console\02. Rectangle of N x N Stars\obj\Debug\_02.Rectangle_of_N_x_N_Stars.pdb

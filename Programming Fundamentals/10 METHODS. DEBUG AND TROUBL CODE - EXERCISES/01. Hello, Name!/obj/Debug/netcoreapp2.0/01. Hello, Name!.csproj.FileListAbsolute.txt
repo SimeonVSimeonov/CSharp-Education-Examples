@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.deps.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.runtimeconfig.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\bin\Debug\netcoreapp2.0\01. Hello, Name!.pdb
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.dll
+C:\Users\simeonoff\source\repos\10 METHODS. DEBUG AND TROUBL CODE - EXERCISES\01. Hello, Name!\obj\Debug\netcoreapp2.0\01. Hello, Name!.pdb

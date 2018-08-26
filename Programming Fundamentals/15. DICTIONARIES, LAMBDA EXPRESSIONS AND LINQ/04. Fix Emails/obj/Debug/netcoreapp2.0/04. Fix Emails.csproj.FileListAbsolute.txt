@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.deps.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.runtimeconfig.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.dll
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\bin\Debug\netcoreapp2.0\04. Fix Emails.pdb
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.dll
+C:\Users\simeonoff\source\repos\15. DICTIONARIES, LAMBDA EXPRESSIONS AND LINQ\04. Fix Emails\obj\Debug\netcoreapp2.0\04. Fix Emails.pdb

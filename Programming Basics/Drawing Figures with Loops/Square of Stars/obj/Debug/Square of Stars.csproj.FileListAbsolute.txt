@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe.config
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\bin\Debug\Square of Stars.pdb
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.exe
+c:\users\simeonoff\source\repos\Drawing Figures with Loops\Square of Stars\obj\Debug\Square of Stars.pdb

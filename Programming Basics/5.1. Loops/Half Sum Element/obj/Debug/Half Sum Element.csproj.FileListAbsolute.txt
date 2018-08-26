@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\bin\Debug\Half Sum Element.exe.config
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\bin\Debug\Half Sum Element.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\bin\Debug\Half Sum Element.pdb
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\obj\Debug\Half Sum Element.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\obj\Debug\Half Sum Element.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\obj\Debug\Half Sum Element.exe
+c:\users\simeonoff\source\repos\5.1. Loops\Half Sum Element\obj\Debug\Half Sum Element.pdb

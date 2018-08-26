@@ -1,0 +1,10 @@
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.deps.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.runtimeconfig.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\bin\Debug\netcoreapp2.0\02. Practice Floating Points.pdb
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.dll
+C:\Users\simeonoff\source\repos\8 DATA TYPES AND VARIABLES - EXERCISES\02. Practice Floating Points\obj\Debug\netcoreapp2.0\02. Practice Floating Points.pdb

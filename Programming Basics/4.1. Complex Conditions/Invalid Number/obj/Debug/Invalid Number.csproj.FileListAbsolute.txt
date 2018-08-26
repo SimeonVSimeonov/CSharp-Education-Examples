@@ -1,0 +1,7 @@
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\bin\Debug\Invalid Number.exe.config
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\bin\Debug\Invalid Number.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\bin\Debug\Invalid Number.pdb
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\obj\Debug\Invalid Number.csprojResolveAssemblyReference.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\obj\Debug\Invalid Number.csproj.CoreCompileInputs.cache
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\obj\Debug\Invalid Number.exe
+c:\users\simeonoff\source\repos\4.1. Complex Conditions\Invalid Number\obj\Debug\Invalid Number.pdb

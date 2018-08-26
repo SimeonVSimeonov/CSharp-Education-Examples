@@ -1,0 +1,11 @@
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.deps.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.runtimeconfig.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\bin\Debug\netcoreapp2.0\08. Letters Change Numbers.pdb
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.csprojResolveAssemblyReference.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.AssemblyInfo.cs
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.dll
+C:\Users\simeonoff\source\repos\19 STRINGS AND TEXT PROCESSING\08. Letters Change Numbers\obj\Debug\netcoreapp2.0\08. Letters Change Numbers.pdb
