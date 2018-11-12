@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace P04HotelReservation
+﻿namespace P04HotelReservation
 {
     public enum Discount
     {
