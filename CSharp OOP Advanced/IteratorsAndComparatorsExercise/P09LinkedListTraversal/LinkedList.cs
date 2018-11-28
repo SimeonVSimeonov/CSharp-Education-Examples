@@ -3,7 +3,6 @@
     using System;
     using System.Collections;
     using System.Collections.Generic;
-    using System.Text;
 
     public class LinkedList<T> : IEnumerable<T>
         where T : IComparable<T>
@@ -47,7 +46,7 @@
                 return;
             }
 
-            if (this.Head.Valie.CompareTo(item) ==0)
+            if (this.Head.Valie.CompareTo(item) == 0)
             {
                 this.Head = this.Head.Next;
                 Count--;
@@ -57,9 +56,9 @@
             Node previous = this.Head;
             var current = this.Head.Next;
 
-            while (current!=null)
+            while (current != null)
             {
-                if (current.Valie.CompareTo(item)==0)
+                if (current.Valie.CompareTo(item) == 0)
                 {
                     previous.Next = current.Next;
                     Count--;
@@ -75,7 +74,7 @@
         {
             var current = this.Head;
 
-            while (current!=null)
+            while (current != null)
             {
                 yield return current.Valie;
                 current = current.Next;
