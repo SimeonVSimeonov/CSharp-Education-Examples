@@ -12,7 +12,7 @@ namespace Skeleton.Tests
         private const int WeaponAttackPoints = 10;
         private const int WeaponDurabilituPoints = 10;
 
-        private const string HeroName = "Hasan";
+        private const string HeroName = "Pesho";
         private const int HeroDefaultXp = 0;
 
         private const int TargetXP = 100;
@@ -52,7 +52,7 @@ namespace Skeleton.Tests
         [Test]
         public void HeroGetsXpWhenTargetDead()
         {
-            Hero hero = new Hero("Az", new Axe(10, 10));
+            Hero hero = new Hero("Me", new Axe(10, 10));
             ITarget dummy = new Dummy(10, 20);
 
             hero.Attack(dummy);
