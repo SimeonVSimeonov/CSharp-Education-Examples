@@ -47,6 +47,10 @@ namespace _01._Data_Transfer
                         {
                             printReciver += item;
                         }
+                        if (char.IsWhiteSpace(item))
+                        {
+                            printReciver += ' ';
+                        }
                         if (char.IsDigit(item))
                         {
                             data += int.Parse(item.ToString());
@@ -55,8 +59,8 @@ namespace _01._Data_Transfer
 
                     Console.WriteLine($"{printSender} says {message} to {printReciver}");
                 }
-                Console.WriteLine($"Total data transferred: {data}MB");
             }
+            Console.WriteLine($"Total data transferred: {data}MB");
         }
     }
 }
