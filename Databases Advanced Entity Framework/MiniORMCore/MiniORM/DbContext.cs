@@ -8,8 +8,6 @@
     using System.Linq;
     using System.Reflection;
 
-    // TODO: Create your DbContext class here.
-
     public abstract class DbContext
     {
         private readonly DatabaseConnection connection;

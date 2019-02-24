@@ -6,8 +6,6 @@
     using System.Linq;
     using System.Reflection;
 
-    // TODO: Create your ChangeTracker class here.
-
     internal class ChangeTracker<T>
         where T: class, new()
     {

@@ -5,8 +5,6 @@
     using System.Collections.Generic;
     using System.Linq;
 
-    // TODO: Create your DbSet class here.
-
     public class DbSet<TEntity> : ICollection<TEntity>
         where TEntity : class, new()
     {

@@ -8,6 +8,8 @@
     {
         public static void Main(string[] args)
         {
+            //TODO -> Add config to Server on ConnectionString 
+
             var connectionString = @"Server=.;Database=MiniORM;Integrated Security=True";
 
             var context = new SoftUniDbContext(connectionString);
