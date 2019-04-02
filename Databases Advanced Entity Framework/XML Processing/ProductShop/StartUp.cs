@@ -55,9 +55,7 @@ namespace ProductShop
                         .OrderByDescending(p => p.Price)
                         .ToArray()
                     }
-
                 })
-                
                 .Take(10)
                 .ToArray();
 
