@@ -66,7 +66,7 @@
                     Name = p.FullName,
                     IncarcerationDate = p.IncarcerationDate.ToString("yyyy-MM-dd", CultureInfo.InvariantCulture),
                     EncryptedMessages = p.Mails.Select(m => new EncryptedMessagesDto {
-                        Description = m.Description//TODO how to reverse string ????????
+                        Description = ReverseDescription(m.Description)//TODO how to reverse string ????????
 
                     }).ToArray()
                     
@@ -90,6 +90,11 @@
             var result = sb.ToString().TrimEnd();
 
             return result;
+        }
+
+        private static string ReverseDescription(string description)
+        {
+            return string.Join("", description.Reverse());
         }
     }
 }
