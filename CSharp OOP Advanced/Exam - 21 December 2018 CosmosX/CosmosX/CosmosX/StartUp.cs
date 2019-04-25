@@ -12,7 +12,7 @@ namespace CosmosX
             IReader reader = new ConsoleReader();
             IWriter writer = new ConsoleWriter();
             IManager reactorManager = new ReactorManager();
-
+            ;
             ICommandParser commandParser = new CommandParser(reactorManager);
             IEngine engine = new Engine(reader,writer,commandParser);
             engine.Run();

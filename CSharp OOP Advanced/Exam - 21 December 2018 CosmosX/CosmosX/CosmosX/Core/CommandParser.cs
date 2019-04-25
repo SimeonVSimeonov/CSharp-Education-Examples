@@ -17,27 +17,31 @@ namespace CosmosX.Core
 
         public string Parse(IList<string> arguments)
         {
-            string command = arguments[0] + CommandNameSuffix;
+            string command = arguments[0] + CommandNameSuffix; //TODO
 
             string[] commandArguments = arguments.Skip(1).ToArray();
-
+            ;
             string result = string.Empty;
 
-            switch (command)
-            {
-                case "Reactor":
-                    result = this.reactorManager.ReactorCommand(commandArguments);
-                    break;
-                case "Module":
-                    result = this.reactorManager.ReactorCommand(commandArguments);
-                    break;
-                case "Report":
-                    result = this.reactorManager.ReactorCommand(commandArguments);
-                    break;
-                case "Exit":
-                    result = this.reactorManager.ExitCommand(commandArguments);
-                    break;
-            }
+            var method = this.reactorManager.GetType().GetMethods().FirstOrDefault(x => x.Name == command);
+
+            result = (string)method.Invoke(this.reactorManager, new object[] { commandArguments });
+
+            //switch (command)
+            //{
+            //    case "Reactor":
+            //        result = this.reactorManager.ReactorCommand(commandArguments);
+            //        break;
+            //    case "Module":
+            //        result = this.reactorManager.ModuleCommand(commandArguments);
+            //        break;
+            //    case "Report":
+            //        result = this.reactorManager.ReportCommand(commandArguments);
+            //        break;
+            //    case "Exit":
+            //        result = this.reactorManager.ExitCommand(commandArguments);
+            //        break;
+            //}
 
             return result;
         }

@@ -1,9 +1,12 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using CosmosX.Core.Contracts;
 using CosmosX.Entities.CommonContracts;
 using CosmosX.Entities.Containers;
 using CosmosX.Entities.Containers.Contracts;
+using CosmosX.Entities.Modules.Absorbing;
+using CosmosX.Entities.Modules.Absorbing.Contracts;
 using CosmosX.Entities.Modules.Contracts;
 using CosmosX.Entities.Modules.Energy;
 using CosmosX.Entities.Modules.Energy.Contracts;
@@ -71,12 +74,17 @@ namespace CosmosX.Core
                     this.identifiableObjects.Add(cryogenRod.Id, cryogenRod);
                     this.modules.Add(cryogenRod.Id, cryogenRod);
                     break;
-                case "HeatProcessor":         
-                    this.reactors[reactorId].AddAbsorbingModule(null);
-                    this.identifiableObjects.Add(3, new CryogenRod(1,1));
-                    this.modules.Add(1, new CryogenRod(32412, 21));
+                case "HeatProcessor":
+                    IAbsorbingModule heatProcessor = new HeatProcessor(this.currentId, additionalParameter);
+                    this.reactors[reactorId].AddAbsorbingModule(heatProcessor);
+                    this.identifiableObjects.Add(heatProcessor.Id, heatProcessor);
+                    this.modules.Add(heatProcessor.Id, heatProcessor);
                     break;
-                case "CooldownSystem":
+                case "CooldownSystem"://TODO implement this
+                    IAbsorbingModule cooldownSystem = new CooldownSystem(this.currentId, additionalParameter);
+                    this.reactors[reactorId].AddAbsorbingModule(cooldownSystem);
+                    this.identifiableObjects.Add(cooldownSystem.Id, cooldownSystem);
+                    this.modules.Add(cooldownSystem.Id,cooldownSystem);
                     break;
             }
 
@@ -89,18 +97,27 @@ namespace CosmosX.Core
         {
             int id = int.Parse(arguments[0]);
 
-            return "https://www.google.bg";
+            var result = "";
+
+            if (this.identifiableObjects.ContainsKey(id))
+            {
+                result = this.identifiableObjects[id].ToString();
+            }
+           
+            return result;
+
         }
 
         public string ExitCommand(IList<string> arguments)
         {
+
             long cryoReactorCount = this.reactors
                 .Values
-                .Count(r => r.GetType().Name == nameof(IEnergyModule));
+                .Count(r => r.GetType().Name == "CryoReactor");
 
             long heatReactorCount = this.reactors
                 .Values
-                .Count(r => r.GetType().Name == nameof(IEnergyModule));
+                .Count(r => r.GetType().Name == "HeatReactor");
 
             long energyModulesCount = this.modules
                 .Values
@@ -108,7 +125,7 @@ namespace CosmosX.Core
 
             long absorbingModulesCount = this.modules
                 .Values
-                .Count(m => m is IEnergyModule);
+                .Count(m => m is IAbsorbingModule);
 
             long totalEnergyOutput = this.reactors
                 .Values
@@ -118,12 +135,12 @@ namespace CosmosX.Core
                 .Values
                 .Sum(r => r.TotalHeatAbsorbing);
 
-            string result = $"Cryo Reactors: {cryoReactorCount}\n" +                         
-                            $"Heat Reactors: {heatReactorCount}\n" +              
-                            $"Energy Modules: {energyModulesCount}\n" +                      
-                            $"Absorbing Modules: {absorbingModulesCount}\n" +           
+            string result = $"Cryo Reactors: {cryoReactorCount}\n" +
+                            $"Heat Reactors: {heatReactorCount}\n" +
+                            $"Energy Modules: {energyModulesCount}\n" +
+                            $"Absorbing Modules: {absorbingModulesCount}\n" +
                             $"Total Energy Output: {totalEnergyOutput}\n" +
-                            $"Total Heat Absorbing: {totalHeatAbsorbing}\n";
+                            $"Total Heat Absorbing: {totalHeatAbsorbing}";
 
             return result;
         }

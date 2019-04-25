@@ -20,7 +20,7 @@ namespace CosmosX.Entities.Reactors
         {
             get
             {
-                return this.Id;
+                return id;
             }
             private set
             {
@@ -44,14 +44,14 @@ namespace CosmosX.Entities.Reactors
 
         public void AddAbsorbingModule(IAbsorbingModule absorbingModule)
         {
-            this.moduleContainer.AddEnergyModule((IEnergyModule)absorbingModule);
+            this.moduleContainer.AddAbsorbingModule(absorbingModule);
         }
 
         public override string ToString()
         {
-            string result = $"{this.GetType().Name} - {this.Id}" +   
-                            $"Energy Output: {this.TotalEnergyOutput}" +            
-                            $"Heat Absorbing: {this.TotalHeatAbsorbing}" +   
+            string result = $"{this.GetType().Name} - {this.Id}\n" +   
+                            $"Energy Output: {this.TotalEnergyOutput}\n" +            
+                            $"Heat Absorbing: {this.TotalHeatAbsorbing}\n" +   
                             $"Modules: {this.ModuleCount}";
 
             return result;

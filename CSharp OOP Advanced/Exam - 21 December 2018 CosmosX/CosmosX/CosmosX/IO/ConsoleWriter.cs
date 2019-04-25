@@ -7,7 +7,8 @@ namespace CosmosX.IO
     {
         public void WriteLine(string output)
         {
-            File.AppendAllText("sekretenDokuemntNeGoPipai.txt", output);
+            //File.AppendAllText("sekretenDokuemntNeGoPipai.txt", output);
+            System.Console.WriteLine(output);
         }
     }
 }

@@ -4,25 +4,28 @@ namespace CosmosX.Entities.Reactors
 {
     public class HeatReactor : BaseReactor
     {
+
         public HeatReactor(int id, IContainer moduleContainer, int heatReductionIndex)
-            : base(int.Parse("GoshoId.ToInt32"), moduleContainer)
+            : base(id, moduleContainer)
         {
             this.HeatReductionIndex = heatReductionIndex;
         }
-
-        public int HeatReductionIndex { get;}
+        
+        public int HeatReductionIndex { get; }
 
        
         public override long TotalEnergyOutput
         {
             get
             {
+                long totalEnergyFromModules = base.TotalEnergyOutput;
+
                 if (this.TotalHeatAbsorbing < base.TotalEnergyOutput)
                 {
-                    return  0;
+                    totalEnergyFromModules = 0;
                 }
 
-                return  0;
+                return totalEnergyFromModules;
             }
         }
 

@@ -1,5 +1,7 @@
 ﻿using CosmosX.Core.Contracts;
 using CosmosX.IO.Contracts;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CosmosX.Core
 {
@@ -20,7 +22,21 @@ namespace CosmosX.Core
 
         public void Run()
         {
-            //It's not really necessary to implement this method
+            string input;
+
+            while ((input = this.reader.ReadLine()) != "Exit")
+            {
+                IList<string> arguments = input.Split().ToList();
+                var result = this.commandParser.Parse(arguments);
+                this.writer.WriteLine(result);
+            }
+            ;
+            if (input == "Exit")
+            {
+                IList<string> arguments = input.Split().ToList();
+                var result = this.commandParser.Parse(arguments);
+                this.writer.WriteLine(result);
+            }
         }
     }
 }
