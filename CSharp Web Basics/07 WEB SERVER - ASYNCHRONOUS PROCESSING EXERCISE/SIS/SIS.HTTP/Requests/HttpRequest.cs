@@ -47,12 +47,17 @@ namespace SIS.HTTP.Requests
             }
 
             this.ParseRequestMethod(requestLine);
+            
             this.ParseRequestUrl(requestLine);
+            
             this.ParseRequestPath();
-
+            
             this.ParseHeaders(splitRequestContent.Skip(1).ToArray());
+            
             bool requestHasBody = splitRequestContent.Length > 1;
+            
             this.ParseRequestParameters(splitRequestContent[splitRequestContent.Length - 1], requestHasBody);
+            
         }
 
         private bool IsValidRequestLine(string[] requestLine)
@@ -134,11 +139,17 @@ namespace SIS.HTTP.Requests
 
         private void ParseQueryParameters(string url)
         {
+
+            if (!this.Url.Contains('?'))
+            {
+                return;
+            }
+
             var queryParams = this.Url?
                 .Split(new[] { '?', '#' })
                 .Skip(1)
                 .ToArray()[0];
-
+            
             if (string.IsNullOrEmpty(queryParams))
             {
                 throw new BadRequestException();
@@ -146,6 +157,7 @@ namespace SIS.HTTP.Requests
 
             var queryKeyValuePairs = queryParams
                 .Split('&', StringSplitOptions.RemoveEmptyEntries);
+
             //TODO check if we need this
             if (!this.IsValidRequestQueryString(queryParams, queryKeyValuePairs))
             {
@@ -172,6 +184,11 @@ namespace SIS.HTTP.Requests
 
         private void ParseFormDataParameters(string formData)
         {
+            //if (string.IsNullOrEmpty(formData))
+            //{
+            //    return;
+            //}
+
             var formDataKeyValuePairs = formData
                 .Split('&', StringSplitOptions.RemoveEmptyEntries);
 

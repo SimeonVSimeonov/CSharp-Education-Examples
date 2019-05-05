@@ -6,6 +6,7 @@ using SIS.HTTP.Headers.Contracts;
 using SIS.HTTP.Responses.Contracts;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace SIS.HTTP.Responses
@@ -36,7 +37,7 @@ namespace SIS.HTTP.Responses
 
         public byte[] GetBytes()
         {
-            throw new NotImplementedException();
+            return Encoding.UTF8.GetBytes(this.ToString()).Concat(this.Content).ToArray();
         }
 
         public override string ToString()
@@ -44,8 +45,10 @@ namespace SIS.HTTP.Responses
             StringBuilder result = new StringBuilder();
 
             result
-                .Append($"{GlobalConstants.HttpOneProtocolFragment} {this.StatusCode.GetResponseLine()} {}")
-
+                .Append($"{GlobalConstants.HttpOneProtocolFragment} {this.StatusCode.GetResponseLine()}")
+                .Append(Environment.NewLine)
+                .Append(this.Headers).Append(Environment.NewLine)
+                .Append(Environment.NewLine);
 
             return result.ToString();
         }
