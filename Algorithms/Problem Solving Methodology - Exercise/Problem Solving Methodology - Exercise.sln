@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Shortest Path in Matrix", "01. Shortest Path in Matrix\01. Shortest Path in Matrix.csproj", "{1ABDC5E9-81B6-4309-B596-CD30892901F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Rectangle Intersection", "02. Rectangle Intersection\02. Rectangle Intersection.csproj", "{91DA0F00-21F7-4737-A56A-7786259F593D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABDC5E9-81B6-4309-B596-CD30892901F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABDC5E9-81B6-4309-B596-CD30892901F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABDC5E9-81B6-4309-B596-CD30892901F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABDC5E9-81B6-4309-B596-CD30892901F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91DA0F00-21F7-4737-A56A-7786259F593D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91DA0F00-21F7-4737-A56A-7786259F593D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91DA0F00-21F7-4737-A56A-7786259F593D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91DA0F00-21F7-4737-A56A-7786259F593D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA01AEC5-6922-4FEF-A536-DCF4C22753A8}
+	EndGlobalSection
+EndGlobal
