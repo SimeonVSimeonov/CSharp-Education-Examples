@@ -195,7 +195,13 @@ namespace SIS.HTTP.Requests
                 .Split(new[] { '?', '#' })
                 .Skip(1)
                 .ToArray()[0];
-            
+
+            //TODO check this
+            if (string.IsNullOrWhiteSpace(queryParams))
+            {
+                return;
+            }
+
             if (string.IsNullOrEmpty(queryParams))
             {
                 throw new BadRequestException();
