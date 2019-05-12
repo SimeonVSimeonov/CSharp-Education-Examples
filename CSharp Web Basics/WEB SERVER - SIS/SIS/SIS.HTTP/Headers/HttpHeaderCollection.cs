@@ -48,7 +48,7 @@ namespace SIS.HTTP.Headers
 
             foreach (var kvpHeader in this.headers)
             {
-                sb.AppendLine(kvpHeader.ToString());
+                sb.AppendLine(kvpHeader.Value.ToString());
             }
 
             return sb.ToString().TrimEnd();

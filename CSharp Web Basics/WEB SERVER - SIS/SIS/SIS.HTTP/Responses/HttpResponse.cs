@@ -58,9 +58,13 @@ namespace SIS.HTTP.Responses
                 .Append($"{GlobalConstants.HttpOneProtocolFragment} {this.StatusCode.GetResponseLine()}")
                 .Append(Environment.NewLine)
                 .Append(this.Headers).Append(Environment.NewLine);
+
             if (this.Cookies.HasCookies())
             {
-                result.Append($"Set-Cookie: {this.Cookies}").Append(Environment.NewLine);
+                foreach (var cookie in this.Cookies)
+                {
+                    result.Append($"Set-Cookie: {cookie.ToString()}").Append(Environment.NewLine);
+                }               
             }
             result.Append(Environment.NewLine);
 

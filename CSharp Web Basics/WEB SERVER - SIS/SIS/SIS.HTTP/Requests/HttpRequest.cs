@@ -88,11 +88,11 @@ namespace SIS.HTTP.Requests
                 return;
             }
 
-            string[] splitCookies = cookiesString.Split(HttpRequestCookiesSeparator);
+            string[] cookies = cookiesString.Split(HttpRequestCookiesSeparator);
 
-            foreach (var splitCookie in splitCookies)
+            foreach (var cookie in cookies)
             {
-                string[] cookieParts = splitCookie.Split(HttpRequestCookieNameValueSeparator, 2, StringSplitOptions.RemoveEmptyEntries);
+                string[] cookieParts = cookie.Split(HttpRequestCookieNameValueSeparator, 2, StringSplitOptions.RemoveEmptyEntries);
                 if (cookieParts.Length != 2)
                 {
                     continue;
@@ -236,10 +236,10 @@ namespace SIS.HTTP.Requests
 
         private void ParseFormDataParameters(string formData)
         {
-            //if (string.IsNullOrEmpty(formData))
-            //{
-            //    return;
-            //}
+            if (string.IsNullOrEmpty(formData))
+            {
+                return;
+            }
 
             var formDataKeyValuePairs = formData
                 .Split('&', StringSplitOptions.RemoveEmptyEntries);

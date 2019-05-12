@@ -100,7 +100,8 @@ namespace SIS.WebServer
             if (sessionId != null)
             {
                 httpResponse
-                    .AddCookie(new HttpCookie(HttpSessionStorage.SessionCookieKey, sessionId));
+                    .AddCookie(new HttpCookie(HttpSessionStorage.SessionCookieKey, 
+                        $"{sessionId}; HttpOnly"));
             }
         }
 

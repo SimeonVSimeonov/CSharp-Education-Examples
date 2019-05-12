@@ -11,5 +11,10 @@ namespace CakesWebApp.Controllers
         {
             return this.View("Index");
         }
+
+        public IHttpResponse Hello(IHttpRequest request)
+        {
+            return new HtmlResult($"<h1>Hello, {this.GetUser(request)}</h1>", HttpResponseStatusCode.OK);
+        }
     }
 }
