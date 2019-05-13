@@ -124,5 +124,10 @@ namespace CakesWebApp.Controllers
             response.Cookies.Add(cookie);
             return response;
         }
+
+        public IHttpResponse MyProfile(IHttpRequest request)
+        {
+            return this.View("Profile");
+        }
     }
 }
