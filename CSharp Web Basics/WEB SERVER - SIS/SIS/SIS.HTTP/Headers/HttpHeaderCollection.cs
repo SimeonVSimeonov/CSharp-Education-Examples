@@ -1,7 +1,6 @@
-﻿using SIS.HTTP.Headers.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using SIS.HTTP.Common;
+using SIS.HTTP.Headers.Contracts;
 
 namespace SIS.HTTP.Headers
 {
@@ -16,42 +15,25 @@ namespace SIS.HTTP.Headers
 
         public void Add(HttpHeader header)
         {
-            if (header == null || 
-                string.IsNullOrEmpty(header.Key) || 
-                string.IsNullOrEmpty(header.Value) || 
-                this.ContainsHeader(header.Key))
-            {
-                throw new Exception();
-            }
-
-            this.headers[header.Key] = header;
+            CoreValidator.ThrowIfNull(header, nameof(header));
+            this.headers.Add(header.Key, header);
         }
 
         public bool ContainsHeader(string key)
         {
-            if (string.IsNullOrEmpty(key))
-            {
-                throw new Exception();
-            }
-
+            CoreValidator.ThrowIfNull(key, nameof(key));
             return this.headers.ContainsKey(key);
         }
 
         public HttpHeader GetHeader(string key)
         {
-            return this.ContainsHeader(key) ? this.headers[key] : null;
+            CoreValidator.ThrowIfNull(key, nameof(key));
+            return this.headers.GetValueOrDefault(key, null);
         }
 
         public override string ToString()
         {
-            var sb = new StringBuilder();
-
-            foreach (var kvpHeader in this.headers)
-            {
-                sb.AppendLine(kvpHeader.Value.ToString());
-            }
-
-            return sb.ToString().TrimEnd();
+            return string.Join(GlobalConstants.HttpNewLine, this.headers.Values);
         }
     }
 }

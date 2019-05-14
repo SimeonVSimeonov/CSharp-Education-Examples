@@ -1,16 +1,17 @@
-﻿using SIS.HTTP.Cookies.Contracts;
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.Collections;
 using System.Net;
-using System.Text;
 
 namespace SIS.HTTP.Cookies
 {
+    using System.Collections.Generic;
+    using Common;
+    using SIS.HTTP.Cookies.Contracts;
+
     public class HttpCookieCollection : IHttpCookieCollection
     {
-        private readonly IDictionary<string, HttpCookie> cookies;
+        private const string HttpCookieStringSeparator = "; ";
+
+        private readonly Dictionary<string, HttpCookie> cookies;
 
         public HttpCookieCollection()
         {
@@ -19,30 +20,28 @@ namespace SIS.HTTP.Cookies
 
         public void Add(HttpCookie cookie)
         {
-            if (cookie == null ||
-                string.IsNullOrEmpty(cookie.Key) || 
-                string.IsNullOrEmpty(cookie.Value) || 
-                this.ContainsCookie(cookie.Key))
+            CoreValidator.ThrowIfNull(cookie, nameof(cookie));
+            if (!this.ContainsCookie(cookie.Key))
             {
-                throw new Exception();
+                this.cookies.Add(cookie.Key, cookie);
             }
-
-            this.cookies[cookie.Key] = cookie;
         }
 
         public bool ContainsCookie(string key)
         {
+            CoreValidator.ThrowIfNull(key, nameof(key));
             return this.cookies.ContainsKey(key);
         }
 
         public HttpCookie GetCookie(string key)
         {
-            if (!this.ContainsCookie(key))
-            {
-                return null;
-            }
+            CoreValidator.ThrowIfNull(key, nameof(key));
+            return this.cookies.GetValueOrDefault(key, null);
+        }
 
-            return this.cookies[key];
+        public bool HasCookies()
+        {
+            return this.cookies.Count > 0;
         }
 
         public IEnumerator<HttpCookie> GetEnumerator()
@@ -53,14 +52,9 @@ namespace SIS.HTTP.Cookies
             }
         }
 
-        public bool HasCookies()
-        {
-            return this.cookies.Any();
-        }
-
         public override string ToString()
         {
-            return string.Join("; ", this.cookies.Values);
+            return string.Join(HttpCookieStringSeparator, this.cookies.Values);
         }
 
         IEnumerator IEnumerable.GetEnumerator()

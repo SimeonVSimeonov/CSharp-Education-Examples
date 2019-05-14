@@ -1,19 +1,20 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SIS.HTTP.Extensions
+﻿namespace SIS.HTTP.Extensions
 {
     public static class StringExtensions
     {
-        public static string Capitalize(this string str)
+        public static string Capitalize(this string text)
         {
-            if (string.IsNullOrEmpty(str))
+            if (string.IsNullOrEmpty(text))
             {
-                throw new ArgumentException($"{nameof(str)} cannot be null!");
+                return text;
             }
 
-            return str.ToLower().Replace(str[0].ToString(), str[0].ToString().ToUpper());
+            if (text.Length == 1)
+            {
+                return text.ToUpper();
+            }
+
+            return char.ToUpper(text[0]) + text.Substring(1).ToLower();
         }
     }
 }

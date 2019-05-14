@@ -1,14 +1,13 @@
-﻿using SIS.HTTP.Enums;
-using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System;
 
 namespace SIS.HTTP.Exceptions
 {
     public class InternalServerErrorException : Exception
     {
-        public const HttpResponseStatusCode HttpStatusCode = HttpResponseStatusCode.InternalServerError;
+        private const string InternalServerErrorExceptionMessage = "The Server has encountered an error.";
 
-        public override string Message => "The Server has encountered an error.";
+        public InternalServerErrorException() : this(InternalServerErrorExceptionMessage) { }
+
+        public InternalServerErrorException(string message) : base(message) { }
     }
 }

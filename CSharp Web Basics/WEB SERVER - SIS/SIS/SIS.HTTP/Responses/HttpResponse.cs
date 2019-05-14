@@ -1,4 +1,6 @@
-﻿using SIS.HTTP.Common;
+﻿using System.Linq;
+using System.Text;
+using SIS.HTTP.Common;
 using SIS.HTTP.Cookies;
 using SIS.HTTP.Cookies.Contracts;
 using SIS.HTTP.Enums;
@@ -6,21 +8,17 @@ using SIS.HTTP.Extensions;
 using SIS.HTTP.Headers;
 using SIS.HTTP.Headers.Contracts;
 using SIS.HTTP.Responses.Contracts;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
 
 namespace SIS.HTTP.Responses
 {
     public class HttpResponse : IHttpResponse
     {
-        public HttpResponse()
-        {
-        }
+        public HttpResponse() { }
 
         public HttpResponse(HttpResponseStatusCode statusCode)
         {
+            CoreValidator.ThrowIfNull(statusCode, nameof(statusCode));
+
             this.Headers = new HttpHeaderCollection();
             this.Cookies = new HttpCookieCollection();
             this.Content = new byte[0];
@@ -29,19 +27,21 @@ namespace SIS.HTTP.Responses
 
         public HttpResponseStatusCode StatusCode { get; set; }
 
-        public IHttpHeaderCollection Headers { get; private set; }
+        public IHttpHeaderCollection Headers { get; }
 
-        public IHttpCookieCollection Cookies { get; set; }
+        public IHttpCookieCollection Cookies { get; }
 
         public byte[] Content { get; set; }
 
         public void AddHeader(HttpHeader header)
         {
+            CoreValidator.ThrowIfNull(header, nameof(header));
             this.Headers.Add(header);
         }
 
         public void AddCookie(HttpCookie cookie)
         {
+            CoreValidator.ThrowIfNull(cookie, nameof(cookie));
             this.Cookies.Add(cookie);
         }
 
@@ -55,18 +55,18 @@ namespace SIS.HTTP.Responses
             StringBuilder result = new StringBuilder();
 
             result
-                .Append($"{GlobalConstants.HttpOneProtocolFragment} {this.StatusCode.GetResponseLine()}")
-                .Append(Environment.NewLine)
-                .Append(this.Headers).Append(Environment.NewLine);
+                .Append($"{GlobalConstants.HttpOneProtocolFragment} {this.StatusCode.GetResponseLine()}").Append(GlobalConstants.HttpNewLine)
+                .Append(this.Headers).Append(GlobalConstants.HttpNewLine);
 
             if (this.Cookies.HasCookies())
             {
-                foreach (var cookie in this.Cookies)
+                foreach (var httpCookie in this.Cookies)
                 {
-                    result.Append($"Set-Cookie: {cookie.ToString()}").Append(Environment.NewLine);
-                }               
+                    result.Append($"Set-Cookie: {httpCookie}").Append(GlobalConstants.HttpNewLine);
+                }
             }
-            result.Append(Environment.NewLine);
+
+            result.Append(GlobalConstants.HttpNewLine);
 
             return result.ToString();
         }
