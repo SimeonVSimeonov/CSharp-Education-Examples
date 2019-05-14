@@ -21,18 +21,6 @@ namespace IRunesWebApp.Controllers
         private string GetCurrentControllerName() =>
             this.GetType().Name.Replace(ControllerDefaultName, "");
 
-        //protected IHttpResponse View(string viewName)
-        //{
-        //    var content = File.ReadAllText("Views/Home/" + viewName + ".html");
-        //    return new HtmlResult(content, HttpResponseStatusCode.OK);
-        //}
-
-        //protected IHttpResponse ViewLoginRegister(string viewName)
-        //{
-        //    var content = File.ReadAllText("Views/Users/" + viewName + ".html");
-        //    return new HtmlResult(content, HttpResponseStatusCode.OK);
-        //}
-
         protected IHttpResponse View([CallerMemberName] string viewName = "")
         {
             string filePath = RelativePath +
