@@ -1,4 +1,8 @@
-﻿using SIS.HTTP.Enums;
+﻿using IRunesWebApp.Data;
+using IRunesWebApp.Services;
+using SIS.HTTP.Cookies;
+using SIS.HTTP.Enums;
+using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
 using SIS.WebServer.Results;
 using System.IO;
@@ -18,8 +22,25 @@ namespace IRunesWebApp.Controllers
 
         private const string HtmlFileExtension = ".html";
 
+        protected IRunesDbContext Context { get; set; }
+
+        private readonly UserCookieService userCookieService;
+
+        public BaseController()
+        {
+            this.Context = new IRunesDbContext();
+            this.userCookieService = new UserCookieService();
+        }
+
         private string GetCurrentControllerName() =>
             this.GetType().Name.Replace(ControllerDefaultName, "");
+
+        public void SignInUser(string username, IHttpResponse response, IHttpRequest request)
+        {
+            request.Session.AddParameter("username", username);
+            var userCookieValue = this.userCookieService.GetUserCookie(username);
+            response.Cookies.Add(new HttpCookie("IRunes_auth", userCookieValue));
+        }
 
         protected IHttpResponse View([CallerMemberName] string viewName = "")
         {

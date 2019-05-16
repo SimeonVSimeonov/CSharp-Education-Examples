@@ -12,6 +12,16 @@ namespace IRunesWebApp
         {
             ServerRoutingTable serverRoutingTable = new ServerRoutingTable();
 
+            ConfigureRouting(serverRoutingTable);
+
+            Server server = new Server(80, serverRoutingTable);
+
+            server.Run();
+        }
+
+        private static void ConfigureRouting(ServerRoutingTable serverRoutingTable)
+        {
+            //GET
             serverRoutingTable.Routes[HttpRequestMethod.Get]["/home/index"] =
                 request => new RedirectResult("/");
 
@@ -24,9 +34,13 @@ namespace IRunesWebApp
             serverRoutingTable.Routes[HttpRequestMethod.Get]["/users/register"] =
                 request => new UsersController().Register(request);
 
-            Server server = new Server(80, serverRoutingTable);
 
-            server.Run();
+            //POST
+            serverRoutingTable.Routes[HttpRequestMethod.Post]["/users/login"] =
+                request => new UsersController().PostLogin(request);
+
+            serverRoutingTable.Routes[HttpRequestMethod.Post]["/users/register"] =
+                request => new UsersController().PostRegister(request);
         }
     }
 }
