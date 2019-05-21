@@ -5,6 +5,8 @@ using SIS.HTTP.Enums;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
 using SIS.WebServer.Results;
+using System;
+using System.Collections.Generic;
 using System.IO;
 using System.Runtime.CompilerServices;
 
@@ -22,14 +24,26 @@ namespace IRunesWebApp.Controllers
 
         private const string HtmlFileExtension = ".html";
 
+        private const string LayoutViewFileName = "_Layout";
+
+        private const string RenderBodyConstant = "@RenderBody()";
+
         protected IRunesDbContext Context { get; set; }
 
         private readonly UserCookieService userCookieService;
+
+        protected IDictionary<string, string> ViewBag { get; set; }
 
         public BaseController()
         {
             this.Context = new IRunesDbContext();
             this.userCookieService = new UserCookieService();
+            this.ViewBag = new Dictionary<string, string>();
+        }
+
+        public bool IsAuthenticated(IHttpRequest request)
+        {
+            return request.Session.ContainsParameter("username");
         }
 
         private string GetCurrentControllerName() =>
@@ -44,6 +58,12 @@ namespace IRunesWebApp.Controllers
 
         protected IHttpResponse View([CallerMemberName] string viewName = "")
         {
+            var layoutView = RelativePath +
+                ViewsFolderName +
+                DirectorySeparator +
+                LayoutViewFileName +
+                HtmlFileExtension;
+
             string filePath = RelativePath +
                                 ViewsFolderName +
                                 DirectorySeparator +
@@ -59,12 +79,33 @@ namespace IRunesWebApp.Controllers
                     HttpResponseStatusCode.NotFound);
             }
 
-            var fileContent = File.ReadAllText(filePath);
+            var viewContent = BuildViewContent(filePath);
 
-            var response = new HtmlResult(fileContent, HttpResponseStatusCode.OK);
+            var viewLayout = File.ReadAllText(layoutView);
+
+            var view = viewLayout.Replace(RenderBodyConstant, viewContent);
+
+            var response = new HtmlResult(view, HttpResponseStatusCode.OK);
 
             return response;
 
+        }
+
+        private string BuildViewContent(string filePath)
+        {
+            var viewContent = File.ReadAllText(filePath);
+
+            foreach (var viewBagKey in ViewBag.Keys)
+            {
+                var dynamicDataPlaceholder = $"{{{{{viewBagKey}}}}}";
+
+                if (viewContent.Contains(dynamicDataPlaceholder))
+                {
+                    viewContent = viewContent.Replace(dynamicDataPlaceholder, this.ViewBag[viewBagKey]);
+                }
+            }
+
+            return viewContent;
         }
     }
 }
