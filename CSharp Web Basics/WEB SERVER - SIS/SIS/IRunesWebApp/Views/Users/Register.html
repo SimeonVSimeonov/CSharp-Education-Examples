@@ -1,27 +1,63 @@
-﻿<h1>IRunes</h1>
+﻿<!DOCTYPE html>
 
-<ul>
-    <li><a href="/">Home</a></li>
-    <li><a href="/users/login">Login</a></li>
-    <li><a href="/users/register">Register</a></li>
-</ul>
-<hr />
-<h1>Register</h1>
-<form method="post" action="/users/register">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>IRunes</title>
+</head>
+<body>
     <div>
-        Username <input name="username" type="text"
-                        placeholder="Username" />
+        <header>
+            <nav>
+                <a href="#">IRunes</a>
+                <button type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span></span>
+                </button>
+                <div id="navbarNav">
+                    <ul>
+                        <li>
+                            <a href="/">Home</a>
+                        </li>
+                        <li>
+                            <a href="/users/login">Login</a>
+                        </li>
+                        <li>
+                            <a href="/users/register">Register</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </header>
+        <hr style="height: 2px" />
+        <main>
+            <h1>Register</h1>
+            <hr style="height: 2px" />
+            <form action="/users/register" method="POST">
+                <div>
+                    <label for="username">Username</label>
+                    <input type="text" id="username" name="username" placeholder="Username...">
+                </div>
+                <div>
+                    <label for="password">Password</label>
+                    <input type="password" id="password" name="password" placeholder="Password...">
+                </div>
+                <div>
+                    <label for="confirmPassword">Confirm Password</label>
+                    <input type="password" id="confirmPassword" name="confirmPassword" placeholder="Confirm Password..." />
+                </div>
+                <div>
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" placeholder="Email..." />
+                </div>
+                <div>
+                    <button type="submit">Register</button>
+                </div>
+            </form>
+        </main>
+        <hr style="height: 2px" />
+        <footer>
+            <h5>CopyRight &copy; Simeonoff Design Studios. All rights reserved.</h5>
+        </footer>
     </div>
-    <div>
-        Password <input name="password" type="password"
-                        placeholder="Password" />
-    </div>
-    <div>
-        Confirm password <input name="confirmPassword" type="password"
-                                placeholder="Confirm Password" />
-    </div>
-    <div>
-        <input type="submit" value="Register" />
-    </div>
-</form>
-<hr />
+</body>
+</html>

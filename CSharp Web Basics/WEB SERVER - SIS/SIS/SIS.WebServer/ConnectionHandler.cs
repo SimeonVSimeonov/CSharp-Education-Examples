@@ -70,6 +70,15 @@ namespace SIS.WebServer
 
         private IHttpResponse HandleRequest(IHttpRequest httpRequest)
         {
+            //if (this.serverRoutingTable.Contains(httpRequest.RequestMethod, httpRequest.Path))
+            //{
+            //    return this.ReturnIfResource(httpRequest.Path);
+            //}
+
+            //return this.serverRoutingTable
+            //    .Get(httpRequest.RequestMethod, httpRequest.Path)
+            //    .Invoke(httpRequest);
+
             var isResourceRequest = this.IsResourceRequest(httpRequest);
             if (isResourceRequest)
             {
@@ -82,6 +91,11 @@ namespace SIS.WebServer
             }
 
             return this.serverRoutingTable.Routes[httpRequest.RequestMethod][httpRequest.Path].Invoke(httpRequest);
+        }
+
+        private IHttpResponse ReturnIfResource(string path)
+        {
+            throw new NotImplementedException();
         }
 
         private IHttpResponse HandleRequestResponse(string httpRequestPath)

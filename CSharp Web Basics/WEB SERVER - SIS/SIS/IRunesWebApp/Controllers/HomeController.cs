@@ -12,7 +12,7 @@ namespace IRunesWebApp.Controllers
                 var username = request.Session.GetParameter("username");
                 this.ViewBag["username"] = username.ToString();
 
-                return this.View("IndexLoggedIn");
+                return this.View("Index-Logged");
             }
 
             return this.View("Index");

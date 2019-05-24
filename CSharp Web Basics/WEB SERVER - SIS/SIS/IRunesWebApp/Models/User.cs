@@ -1,4 +1,6 @@
-﻿namespace IRunesWebApp.Models
+﻿using System;
+
+namespace IRunesWebApp.Models
 {
     public class User : BaseEntity<string>
     {

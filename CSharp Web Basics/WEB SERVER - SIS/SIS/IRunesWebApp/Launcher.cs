@@ -34,7 +34,6 @@ namespace IRunesWebApp
             serverRoutingTable.Routes[HttpRequestMethod.Get]["/users/register"] =
                 request => new UsersController().Register(request);
 
-
             //POST
             serverRoutingTable.Routes[HttpRequestMethod.Post]["/users/login"] =
                 request => new UsersController().PostLogin(request);
