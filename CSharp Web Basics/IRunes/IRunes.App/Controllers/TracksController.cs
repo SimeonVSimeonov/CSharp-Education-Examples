@@ -1,12 +1,10 @@
-﻿using IRunes.Data;
+﻿using IRunes.App.Extensions;
+using IRunes.Data;
 using IRunes.Models;
-using IRunes.App.Extensions;
 using SIS.HTTP.Requests.Contracts;
 using SIS.HTTP.Responses.Contracts;
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace IRunes.App.Controllers
 {
@@ -87,7 +85,7 @@ namespace IRunes.App.Controllers
                 }
 
                 this.ViewData["AlbumId"] = albumId;
-                this.ViewData["Track"] = trackFromDb.ToHtmlDetails();
+                this.ViewData["Track"] = trackFromDb.ToHtmlDetails(albumId);
                 return this.View();
             }
         }
