@@ -66,7 +66,7 @@ namespace SIS.WebServer
 
         private IHttpResponse ReturnIfResourse(IHttpRequest httpRequest)
         {
-            string folderPrefix = "/../";       //"/../../../../";
+            string folderPrefix = "/../";
             string assemblyLocation = Assembly.GetExecutingAssembly().Location;
             string resourceFolderPath = "Resources/";
             string requestedResource = httpRequest.Path;
@@ -76,7 +76,7 @@ namespace SIS.WebServer
             if (File.Exists(fullPathToResource))
             {
                 byte[] content = File.ReadAllBytes(fullPathToResource);
-                return new InlineResourceResult(content, HttpResponseStatusCode.Found);
+                return new InlineResourceResult(content, HttpResponseStatusCode.Ok);
             }
             else
             {
